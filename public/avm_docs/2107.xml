@@ -1,0 +1,135 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance.Notes>Distance taken from Fast Facts.</avm:Distance.Notes>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>1000000000</rdf:li>
+    <rdf:li>0.089</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>sig07-020</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>IRS</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2009-07-05</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://www.spitzer.caltech.edu/images/2107-sig07-020-Cosmic-Caper-Unfolds-in-Infrared-Spectrum-of-Stolen-Hot-Gas-in-3C-326</avm:ReferenceURL>
+  <avm:ResourceID>sig07-020.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0001/4707/sig07-020.tif</avm:ResourceURL>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Bandpass>
+   <rdf:Seq>
+    <rdf:li>mid-IR</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Bandpass>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>C.5.1.7</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Chart</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:creator>
+   <rdf:Seq>
+    <rdf:li>Spitzer Space Telescope</rdf:li>
+   </rdf:Seq>
+  </dc:creator>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>This plot of data from NASA&#39;s Spitzer Space Telescope reveals vast reservoirs of hot gas in a galaxy about a billion light-years away called 3C 326 North. The gas is hot both figuratively and literally: it was stolen from another galaxy, and, during its transfer from one galaxy to another, it was heated up to hot-lava temperatures as high as 730 degrees Celsius (1,340 degrees Fahrenheit).
+
+The data were taken by Spitzer&#39;s infrared spectrometer, which splits light apart into its constituent wavelengths much like a prism turns sunlight into a rainbow. The resulting bumps and wiggles shown here, called a spectrum, reveal the signature, or &quot;fingerprint,&quot; of a hot, molecular hydrogen gas. In space, molecular hydrogen gas is a precious commodity: it is a necessary ingredient to make stars and planets. On Earth, this same gas is considered as a possible alternative fuel for cars.
+
+The strength of the hydrogen fingerprint also tells astronomers that a lot is present in the galaxy  the equivalent of one billion suns!
+
+Astronomers were initially surprised to see so much gas because the galaxy is not busy making stars, as indicated by the weak signature in this spectrum of a star-forming molecule called polycyclic aromatic hydrocarbons. Further investigations revealed that the gas is being ripped off from a smaller, companion galaxy.
+
+The weak signatures for neon, oxygen and iron in the spectrum indicate that the supermassive black hole at the center of this galaxy is relatively inactive, or sleepy.</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>3C 326</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Cosmic Caper Unfolds in Infrared: Spectrum of Stolen Hot Gas in 3C 326</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA/JPL-Caltech/P. Ogle (Spitzer Science Center/Caltech)</photoshop:Credit>
+  <photoshop:Headline>This plot of data from NASA&#39;s Spitzer Space Telescope reveals vast reservoirs of hot gas in a galaxy about a billion light-years away called 3C 326 North. The gas is hot both figuratively and literally: it was stolen from another galaxy, and, during its transfer from one galaxy to another, it was heated up to hot-lava temperatures as high as 730 degrees Celsius (1,340 degrees Fahrenheit).</photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

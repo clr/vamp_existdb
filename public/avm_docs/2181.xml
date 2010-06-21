@@ -1,0 +1,146 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance.Notes>Distance to the LMC.</avm:Distance.Notes>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>160000</rdf:li>
+    <rdf:li>-</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>Chandra</rdf:li>
+    <rdf:li>Hubble</rdf:li>
+    <rdf:li>Hubble</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>sig06-030</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:MetadataDate>2009-07-06</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://www.spitzer.caltech.edu/images/2181-sig06-030-Stellar-Debris-in-the-Large-Magellanic-Cloud</avm:ReferenceURL>
+  <avm:ResourceID>sig06-030.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0001/4782/sig06-030.tif</avm:ResourceURL>
+  <avm:Spatial.CoordinateFrame>ICRS</avm:Spatial.CoordinateFrame>
+  <avm:Spatial.Quality>Position</avm:Spatial.Quality>
+  <avm:Spatial.ReferenceValue>
+   <rdf:Seq>
+    <rdf:li>81.3541666667</rdf:li>
+    <rdf:li>-64.0105555556</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceValue>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>X-ray</rdf:li>
+    <rdf:li>Optical</rdf:li>
+    <rdf:li>Optical</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.ColorAssignment>
+   <rdf:Seq>
+    <rdf:li>Blue</rdf:li>
+    <rdf:li>Grayscale</rdf:li>
+    <rdf:li>Yellow</rdf:li>
+    <rdf:li>Red</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.ColorAssignment>
+  <avm:Spectral.Notes>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Detailed color assignments not available</rdf:li>
+   </rdf:Alt>
+  </avm:Spectral.Notes>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>C.4.1.4</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:creator>
+   <rdf:Seq>
+    <rdf:li>Spitzer Space Telescope</rdf:li>
+   </rdf:Seq>
+  </dc:creator>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>This is a composite image of N49, the brightest supernova remnant in optical light in the Large Magellanic Cloud. The Chandra X-ray image (blue) shows million-degree gas in the center. Much cooler gas at the outer parts of the remnant is seen in the infrared image from Spitzer (red). While astronomers expected that dust particles were generating most of the infrared emission, the study of this object indicates that much of the infrared is instead generated in heated gas.
+
+The unique filamentary structure seen in the optical image by Hubble (white &amp; yellow) has long set N49 apart from other well understood supernova remnants, as most supernova remnants appear roughly circular in visible light. Recent mapping of molecular clouds suggests that this supernova remnant is expanding into a denser region to the southeast, which would cause its asymmetrical appearance. This idea is confirmed by the Chandra data. Although X-rays reveal a round shell of emission, the X-rays also show brightening in the southeast, confirming the idea of colliding material in that area.</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>N49</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Stellar Debris in the Large Magellanic Cloud</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>X-ray: NASA/CXC/Caltech/S.Kulkarni et al.; Optical: NASA/STScI/UIUC/Y.H.Chu &amp; R.Williams et al.; IR: NASA/JPL-Caltech/R.Gehrz et al.</photoshop:Credit>
+  <photoshop:Headline>This is a composite image from Spitzer, Chandra and Hubble of N49, the brightest supernova remnant in optical light in the Large Magellanic Cloud. </photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

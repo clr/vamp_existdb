@@ -1,0 +1,197 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>170000</rdf:li>
+    <rdf:li>-</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>ssc2004-01a</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2009-06-23</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://www.spitzer.caltech.edu/images/1121-ssc2004-01a-The-Tarantula-Nebula</avm:ReferenceURL>
+  <avm:ResourceID>ssc2004-01a.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0001/6318/ssc2004-01a.tif</avm:ResourceURL>
+  <avm:Spatial.CoordinateFrame>ICRS</avm:Spatial.CoordinateFrame>
+  <avm:Spatial.CoordsystemProjection>TAN</avm:Spatial.CoordsystemProjection>
+  <avm:Spatial.Equinox>J2000</avm:Spatial.Equinox>
+  <avm:Spatial.Quality>Position</avm:Spatial.Quality>
+  <avm:Spatial.ReferenceDimension>
+   <rdf:Seq>
+    <rdf:li>2200</rdf:li>
+    <rdf:li>1448</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceDimension>
+  <avm:Spatial.ReferencePixel>
+   <rdf:Seq>
+    <rdf:li>1100</rdf:li>
+    <rdf:li>724</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferencePixel>
+  <avm:Spatial.ReferenceValue>
+   <rdf:Seq>
+    <rdf:li>84.571131474555116</rdf:li>
+    <rdf:li>-69.136079145616634</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceValue>
+  <avm:Spatial.Rotation>402.99839749685469</avm:Spatial.Rotation>
+  <avm:Spatial.Scale>
+   <rdf:Seq>
+    <rdf:li>-0.00021383678222882137</rdf:li>
+    <rdf:li>0.00021383678222882137</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.Scale>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Bandpass>
+   <rdf:Seq>
+    <rdf:li>Near-IR</rdf:li>
+    <rdf:li>Near-IR</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Bandpass>
+  <avm:Spectral.CentralWavelength>
+   <rdf:Seq>
+    <rdf:li>3600</rdf:li>
+    <rdf:li>4500</rdf:li>
+    <rdf:li>5800</rdf:li>
+    <rdf:li>8000</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.CentralWavelength>
+  <avm:Spectral.ColorAssignment>
+   <rdf:Seq>
+    <rdf:li>Blue</rdf:li>
+    <rdf:li>Green</rdf:li>
+    <rdf:li>Orange</rdf:li>
+    <rdf:li>Red</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.ColorAssignment>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>B.4.1.2.</rdf:li>
+    <rdf:li>B.4.2.1.</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:creator>
+   <rdf:Seq>
+    <rdf:li>Spitzer Space Telescope</rdf:li>
+   </rdf:Seq>
+  </dc:creator>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>NASA&#39;s new Spitzer Space Telescope, formerly known as the Space Infrared Telescope Facility, has captured in stunning detail the spidery filaments and newborn stars of the Tarantula Nebula, a rich star-forming region also known as 30 Doradus. This cloud of glowing dust and gas is located in the Large Magellanic Cloud, the nearest galaxy to our own Milky Way, and is visible primarily from the Southern Hemisphere. This image of an interstellar cauldron provides a snapshot of the complex physical processes and chemistry that govern the birth -- and death -- of stars.
+
+At the heart of the nebula is a compact cluster of stars, known as R136, which contains very massive and young stars. The brightest of these blue supergiant stars are up to 100 times more massive than the Sun, and are at least 100,000 times more luminous. These stars will live fast and die young, at least by astronomical standards, exhausting their nuclear fuel in a few million years.
+
+The Spitzer Space Telescope image was obtained with an infrared array camera that is sensitive to invisible infrared light at wavelengths that are about ten times longer than visible light. In this four-color composite, emission at 3.6 microns is depicted in blue, 4.5 microns in green, 5.8 microns in orange, and 8.0 microns in red. The image covers a region that is three-quarters the size of the full moon.
+
+The Spitzer observations penetrate the dust clouds throughout the Tarantula to reveal previously hidden sites of star formation. Within the luminescent nebula, many holes are also apparent. These voids are produced by highly energetic winds originating from the massive stars in the central star cluster. The structures at the edges of these voids are particularly interesting. Dense pillars of gas and dust, sculpted by the stellar radiation, denote the birthplace of future generations of stars.
+
+The Spitzer image provides information about the composition of the material at the edges of the voids. The surface layers closest to the massive stars are subject to the most intense stellar radiation. Here, the atoms are stripped of their electrons, and the green color of these regions is indicative of the radiation from this highly excited, or &#39;ionized,&#39; material. The ubiquitous red filaments seen throughout the image reveal the presence of molecular material thought to be rich in hydrocarbons.
+
+The Tarantula Nebula is the nearest example of a &#39;starburst&#39; phenomenon, in which intense episodes of star formation occur on massive scales. Most starbursts, however, are associated with dusty and distant galaxies. Spitzer infrared observations of the Tarantula provide astronomers with an unprecedented view of the lifecycle of massive stars and their vital role in regulating the birth of future stellar and planetary systems. 
+</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>Tarantula Nebula</rdf:li>
+    <rdf:li>30 Doradus</rdf:li>
+    <rdf:li>NGC 2070</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>The Tarantula Nebula</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA/JPL-Caltech/B. Brandl (Cornell &amp; University of Leiden)</photoshop:Credit>
+  <photoshop:Headline>NASA&#39;s new Spitzer Space Telescope, formerly known as the Space Infrared Telescope Facility, has captured in stunning detail the spidery filaments and newborn stars of the Tarantula Nebula, a rich star-forming region also known as 30 Doradus. This cloud of glowing dust and gas is located in the Large Magellanic Cloud, the nearest galaxy to our own Milky Way, and is visible primarily from the Southern Hemisphere. </photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

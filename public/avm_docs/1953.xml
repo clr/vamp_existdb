@@ -1,0 +1,187 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance.Notes>fast facts</avm:Distance.Notes>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>6500</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>ssc2008-15a1</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>MIPS</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2009-06-30</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://www.spitzer.caltech.edu/images/1953-ssc2008-15a1-W5-Star-Formation-Region</avm:ReferenceURL>
+  <avm:ResourceID>ssc2008-15a1.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0001/0553/ssc2008-15a1.tif</avm:ResourceURL>
+  <avm:Spatial.CoordinateFrame>ICRS</avm:Spatial.CoordinateFrame>
+  <avm:Spatial.CoordsystemProjection>TAN</avm:Spatial.CoordsystemProjection>
+  <avm:Spatial.Equinox>J2000</avm:Spatial.Equinox>
+  <avm:Spatial.Quality>Full</avm:Spatial.Quality>
+  <avm:Spatial.ReferenceDimension>
+   <rdf:Seq>
+    <rdf:li>2649</rdf:li>
+    <rdf:li>3000</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceDimension>
+  <avm:Spatial.ReferencePixel>
+   <rdf:Seq>
+    <rdf:li>1324.5</rdf:li>
+    <rdf:li>1500</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferencePixel>
+  <avm:Spatial.ReferenceValue>
+   <rdf:Seq>
+    <rdf:li>43.553604233523863</rdf:li>
+    <rdf:li>60.440445328039885</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceValue>
+  <avm:Spatial.Rotation>88.5235384131</avm:Spatial.Rotation>
+  <avm:Spatial.Scale>
+   <rdf:Seq>
+    <rdf:li>-0.00082414509105210019</rdf:li>
+    <rdf:li>0.00082414509105210019</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.Scale>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Bandpass>
+   <rdf:Seq>
+    <rdf:li>Near-IR</rdf:li>
+    <rdf:li>Near-IR</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Bandpass>
+  <avm:Spectral.CentralWavelength>
+   <rdf:Seq>
+    <rdf:li>3600</rdf:li>
+    <rdf:li>4500</rdf:li>
+    <rdf:li>8000</rdf:li>
+    <rdf:li>24000</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.CentralWavelength>
+  <avm:Spectral.ColorAssignment>
+   <rdf:Seq>
+    <rdf:li>Blue</rdf:li>
+    <rdf:li>Cyan</rdf:li>
+    <rdf:li>Green</rdf:li>
+    <rdf:li>Red</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.ColorAssignment>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>B.4.1.2</rdf:li>
+    <rdf:li>B.4.2.1.1</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Generations of stars can be seen in this new infrared portrait from NASA&#39;s Spitzer Space Telescope. In this wispy star-forming region, called W5, the oldest stars can be seen as blue dots in the centers of the two hollow cavities (other blue dots are background and foreground stars not associated with the region). Younger stars line the rims of the cavities, and some can be seen as pink dots at the tips of the elephant-trunk-like pillars. The white knotty areas are where the youngest stars are forming. Red shows heated dust that pervades the region&#39;s cavities, while green highlights dense clouds.
+
+W5 spans an area of sky equivalent to four full moons and is about 6,500 light-years away in the constellation Cassiopeia. The Spitzer picture was taken over a period of 24 hours.
+
+Like other massive star-forming regions, such as Orion and Carina, W5 contains large cavities that were carved out by radiation and winds from the region&#39;s most massive stars. According to the theory of triggered star-formation, the carving out of these cavities pushes gas together, causing it to ignite into successive generations of new stars.
+
+This image contains some of the best evidence yet for the triggered star-formation theory. Scientists analyzing the photo have been able to show that the ages of the stars become progressively and systematically younger with distance from the center of the cavities.
+
+This is a three-color composite showing infrared observations from two Spitzer instruments. Blue represents 3.6-micron light and green shows light of 8 microns, both captured by Spitzer&#39;s infrared array camera. Red is 24-micron light detected by Spitzer&#39;s multiband imaging photometer.</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>W5</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>W5 Star Formation Region</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA/JPL-Caltech/L. Allen &amp; X. Koenig (Harvard-Smithsonian CfA)</photoshop:Credit>
+  <photoshop:Headline>Generations of stars can be seen in this new infrared portrait of the star formation region W5 from NASA&#39;s Spitzer Space Telescope.</photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

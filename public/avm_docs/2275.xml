@@ -1,0 +1,152 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance.Notes>Distance taken from Fast Facts using z=1.24.  Other values include z=1.26 (8.7 GLyr), z=1.41 (9.1 GLyr).</avm:Distance.Notes>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>9100000000</rdf:li>
+    <rdf:li>1.41</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>KPNO 4m</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>sig06-015</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>Mosaic-1</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2009-07-10</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://www.spitzer.caltech.edu/images/2275-sig06-015-Galaxies-Gather-at-Great-Distances</avm:ReferenceURL>
+  <avm:ResourceID>sig06-015.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0001/3262/sig06-015.tif</avm:ResourceURL>
+  <avm:Spatial.CoordinateFrame>ICRS</avm:Spatial.CoordinateFrame>
+  <avm:Spatial.Equinox>J2000</avm:Spatial.Equinox>
+  <avm:Spatial.Notes>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Position refers to ISCS J1438.1+3414</rdf:li>
+   </rdf:Alt>
+  </avm:Spatial.Notes>
+  <avm:Spatial.Quality>Position</avm:Spatial.Quality>
+  <avm:Spatial.ReferenceValue>
+   <rdf:Seq>
+    <rdf:li>219.53629167</rdf:li>
+    <rdf:li>34.23866667</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceValue>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Optical</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Notes>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Multiple image collage</rdf:li>
+   </rdf:Alt>
+  </avm:Spectral.Notes>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>D.5.5.3.</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:creator>
+   <rdf:Seq>
+    <rdf:li>Spitzer Space Telescope</rdf:li>
+   </rdf:Seq>
+  </dc:creator>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Astronomers have discovered nearly 300 galaxy clusters and groups, including almost 100 located 8 to 10 billion light-years away, using the space-based Spitzer Space Telescope and the ground-based Mayall 4-meter telescope at Kitt Peak National Observatory in Tucson, Ariz. The new sample represents a six-fold increase in the number of known galaxy clusters and groups at such extreme distances, and will allow astronomers to systematically study massive galaxies two-thirds of the way back to the Big Bang.
+
+A mosaic portraying a bird&#39;s eye view of the field in which the distant clusters were found is shown at upper left. It spans a region of sky 40 times larger than that covered by the full moon as seen from Earth. Thousands of individual images from Spitzer&#39;s infrared array camera instrument were stitched together to create this mosaic. The distant clusters are marked with orange dots.
+
+Close-up images of three of the distant galaxy clusters are shown in the adjoining panels. The clusters appear as a concentration of red dots near the center of each image. These images reveal the galaxies as they were over 8 billion years ago, since that&#39;s how long their light took to reach Earth and Spitzer&#39;s infrared eyes.
+
+These pictures are false-color composites, combining ground-based optical images captured by the Mosaic-I camera on the Mayall 4-meter telescope at Kitt Peak, with infrared pictures taken by Spitzer&#39;s infrared array camera. Blue and green represent visible light at wavelengths of 0.4 microns and 0.8 microns, respectively, while red indicates infrared light at 4.5 microns.
+
+Kitt Peak National Observatory is part of the National Optical Astronomy Observatory in Tuscon, Ariz.</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>Distant Galaxy Clusters</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Galaxies Gather at Great Distances</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA/JPL-Caltech/M. Brodwin (JPL)</photoshop:Credit>
+  <photoshop:Headline>Astronomers have discovered nearly 300 galaxy clusters and groups, including almost 100 located 8 to 10 billion light-years away, using the space-based Spitzer Space Telescope and the ground-based Mayall 4-meter telescope at Kitt Peak National Observatory  in Tucson, Ariz. The new sample represents a six-fold increase in the number of known galaxy clusters and groups at such extreme distances, and will allow astronomers to systematically study massive galaxies two-thirds of the way back to the Big Bang.</photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

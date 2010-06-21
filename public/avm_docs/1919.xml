@@ -1,0 +1,169 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>11000</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>ssc2008-09a1</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>MIPS</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2009-06-30</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://www.spitzer.caltech.edu/images/1919-ssc2008-09a1-Ghostly-Light-Echoes-in-Supernova-Remnant-Cassiopeia-A</avm:ReferenceURL>
+  <avm:ResourceID>ssc2008-09a1.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0001/0176/ssc2008-09a1.tif</avm:ResourceURL>
+  <avm:Spatial.CoordinateFrame>ICRS</avm:Spatial.CoordinateFrame>
+  <avm:Spatial.CoordsystemProjection>TAN</avm:Spatial.CoordsystemProjection>
+  <avm:Spatial.Equinox>J2000</avm:Spatial.Equinox>
+  <avm:Spatial.Quality>Full</avm:Spatial.Quality>
+  <avm:Spatial.ReferenceDimension>
+   <rdf:Seq>
+    <rdf:li>5040</rdf:li>
+    <rdf:li>5005</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceDimension>
+  <avm:Spatial.ReferencePixel>
+   <rdf:Seq>
+    <rdf:li>2520</rdf:li>
+    <rdf:li>2502.5</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferencePixel>
+  <avm:Spatial.ReferenceValue>
+   <rdf:Seq>
+    <rdf:li>350.86410831068645</rdf:li>
+    <rdf:li>58.83379224971668</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceValue>
+  <avm:Spatial.Rotation>69.775588271</avm:Spatial.Rotation>
+  <avm:Spatial.Scale>
+   <rdf:Seq>
+    <rdf:li>-0.00069190377362856183</rdf:li>
+    <rdf:li>0.00069190377362856183</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.Scale>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Bandpass>
+   <rdf:Seq>
+    <rdf:li>Mid-IR</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Bandpass>
+  <avm:Spectral.CentralWavelength>
+   <rdf:Seq>
+    <rdf:li>24000</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.CentralWavelength>
+  <avm:Spectral.Notes>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Colors indicate date of observation</rdf:li>
+   </rdf:Alt>
+  </avm:Spectral.Notes>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>B.4.1.4</rdf:li>
+    <rdf:li>B.4.2.2.1</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>This image from NASA&#39;s Spitzer Space Telescope highlights dramatic changes in phenomena referred to as light echoes (colored areas) around the Cassiopeia A supernova remnant (center). Cassiopeia A is the remnant of a once massive star that died in a violent supernova explosion. It consists of a dead star, called a neutron star, and a surrounding shell of material that was blasted off as the star died.
+
+A light echo is created when a star explodes or erupts, flashing light into surrounding clumps of dust. As the light zips through the dust clumps, it heats them up, causing them to glow successively in infrared, like a chain of Christmas bulbs lighting up one by one. The result is an optical illusion, in which the dust appears to be flying outward at the speed of light. This apparent motion can be seen here by the shift in colored dust clumps.
+
+The main underlying image is a composite from Spitzer showing Cassiopeia A and surrounding interstellar clouds of dust. It consists of six images taken over a time span of three years, each represented in a different color, as noted by the key at the bottom of the image.
+
+Dust features that have not changed over time appear gray, while those that have changed are colored blue or orange. Bluer colors represent an earlier time and redder ones, a later time. Certain areas of the light echo are displayed in more detail to show the turbulent patterns formed as the light echo illuminates different areas of gas and dust over time.
+
+The supernova remnant is located 11,000 light-years away in the northern constellation Cassiopeia. The light echo is the largest ever seen, stretching more than 300 light-years away from Cassiopeia A. If viewed from Earth, the entire frame would take up the same amount of space as seven full moons.</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>Cassiopeia A</rdf:li>
+    <rdf:li>Cas A</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Light Echoes in Supernova Remnant Cassiopeia A</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA/JPL-Caltech/Y. Kim (Univ. of Arizona/Univ. of Chicago)</photoshop:Credit>
+  <photoshop:Headline>This image from NASA&#39;s Spitzer Space Telescope highlights dramatic changes in phenomena referred to as light echoes around the Cassiopeia A supernova remnant. Cassiopeia A is the remnant of a once massive star that died in a violent supernova explosion. It consists of a dead star, called a neutron star, and a surrounding shell of material that was blasted off as the star died.</photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

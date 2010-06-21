@@ -1,0 +1,164 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>27000000</rdf:li>
+    <rdf:li>0.0008</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>Chandra</rdf:li>
+    <rdf:li>Hubble</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>ssc2009-03a1</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>ACIS</rdf:li>
+    <rdf:li>ACS</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2009-07-01</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://www.spitzer.caltech.edu/images/1992-ssc2009-03a1-M101-NASA-s-Great-Observatories-Composite</avm:ReferenceURL>
+  <avm:ResourceID>ssc2009-03a1.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0001/0927/ssc2009-03a1.tif</avm:ResourceURL>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>X-ray</rdf:li>
+    <rdf:li>Optical</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Bandpass>
+   <rdf:Seq>
+    <rdf:li>-</rdf:li>
+    <rdf:li>B-band</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Bandpass>
+  <avm:Spectral.CentralWavelength>
+   <rdf:Seq>
+    <rdf:li>0.8267</rdf:li>
+    <rdf:li>435</rdf:li>
+    <rdf:li>8000</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.CentralWavelength>
+  <avm:Spectral.ColorAssignment>
+   <rdf:Seq>
+    <rdf:li>Blue</rdf:li>
+    <rdf:li>Yellow</rdf:li>
+    <rdf:li>Red</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.ColorAssignment>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>C.5.1.1.</rdf:li>
+    <rdf:li>C.5.3.1.</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>In 1609, Galileo improved the newly invented telescope, turned it toward the heavens, and revolutionized our view of the universe. In celebration of the 400th anniversary of this milestone, 2009 has been designated as the International Year of Astronomy.
+
+Today, NASA&#39;s Great Observatories are continuing Galileo&#39;s legacy with stunning images and breakthrough science from the Hubble Space Telescope, the Spitzer Space Telescope, and the Chandra X-ray Observatory.
+
+While Galileo observed the sky using visible light seen by the human eye, technology now allows us to observe in many wavelengths, including Spitzer&#39;s infrared view and Chandra&#39;s view in X-rays. Each wavelength region shows different aspects of celestial objects and often reveals new objects that could not otherwise be studied.
+
+This image of the spiral galaxy Messier 101 is a composite of views from Spitzer, Hubble, and Chandra.
+
+The red color shows Spitzer&#39;s view in infrared light. It highlights the heat emitted by dust lanes in the galaxy where stars can form.
+
+The yellow color is Hubble&#39;s view in visible light. Most of this light comes from stars, and they trace the same spiral structure as the dust lanes.
+
+The blue color shows Chandra&#39;s view in X-ray light. Sources of X-rays include million-degree gas, exploded stars, and material colliding around black holes.
+
+Such composite images allow astronomers to see how features seen in one wavelength match up with those seen in another wavelength. It&#39;s like seeing with a camera, night vision goggles, and X-ray vision all at once.
+
+In the four centuries since Galileo, astronomy has changed dramatically. Yet our curiosity and quest for knowledge remain the same. So, too, does our wonder at the splendor of the universe.
+
+The International Year of Astronomy Great Observatories Image Unveiling is supported by the NASA Science Mission Directorate Astrophysics Division. The project is a collaboration between the Space Telescope Science Institute, the Spitzer Science Center, and the Chandra X-ray Center.</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>Pinwheel Galaxy</rdf:li>
+    <rdf:li>Messier 101</rdf:li>
+    <rdf:li>M101</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>NASA&#39;s Great Observatories Celebrate the International Year of Astronomy</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA, ESA, CXC, JPL, Caltech and STScI</photoshop:Credit>
+  <photoshop:Headline>This image of the spiral galaxy Messier 101 is a composite of views from Spitzer, Hubble, and Chandra.</photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

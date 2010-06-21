@@ -1,0 +1,139 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance.Notes>Distance from description</avm:Distance.Notes>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>520</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>ssc2005-21a</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>IRS</rdf:li>
+    <rdf:li>IRS</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2009-06-25</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://www.spitzer.caltech.edu/images/1497-ssc2005-21a-Planet-Clumps-and-Crystals-Around-Brown-Dwarfs</avm:ReferenceURL>
+  <avm:ResourceID>ssc2005-21a.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0001/2675/ssc2005-21a.tif</avm:ResourceURL>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.CentralWavelength>
+   <rdf:Seq>
+    <rdf:li>7500</rdf:li>
+    <rdf:li>13000</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.CentralWavelength>
+  <avm:Spectral.Notes>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Spectrum plotted from 7.5 to 13 microns</rdf:li>
+   </rdf:Alt>
+  </avm:Spectral.Notes>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>C.3.2.3.</rdf:li>
+    <rdf:li>C.3.7.2.3.</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Chart</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:creator>
+   <rdf:Seq>
+    <rdf:li>Spitzer Space Telescope</rdf:li>
+   </rdf:Seq>
+  </dc:creator>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>This graph of data from NASA&#39;s Spitzer Space Telescope shows the spectra (middle four lines) of dusty disks around four brown dwarfs, or &quot;failed stars,&quot; located 520 light-years away in the Chamaeleon constellation. The data suggest that the dust in these disks is crystallizing and clumping together in what may be the birth of planets.
+
+Spectra are created by breaking light apart into its basic components, like a prism turning sunlight into a rainbow. Their bumps represent the &quot;fingerprints&quot; or signatures of different minerals.
+
+Here, the light green vertical bands highlight the spectral fingerprints of crystals made up primarily of a green silicate mineral found on Earth called olivine. As the graph illustrates, three of the four brown dwarfs possess these microscopic gem-like particles. For comparison, the spectra of dust between stars (top) and the comet Hale-Bopp (bottom) are shown. The comet has the tiny crystals, whereas the interstellar dust does not.
+
+The broadening of these spectral features or bumps—seen here as you move down the graph—indicates silicate grains of increasing size.Another analysis of this same data shows that some of the brown dwarfs&#39; dusty disks flare in their outer regions, while others are flattened. This flattening is correlated with increasing grain size, and probably occurs because the heavier dust grains are settling downward.
+
+Together, these observations—of crystals, growing dust grains and flattened disks—provide strong evidence that the dust around these brown dwarfs is evolving into what might become planets. Prior to the findings, these first steps of planet formation were seen only in disks around stars, the brighter and bigger cousins to brown dwarfs.</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Planet Clumps and Crystals Around Brown Dwarfs</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA/JPL-Caltech/D. Apai (University of Arizona)</photoshop:Credit>
+  <photoshop:Headline>This graph of data from NASA&#39;s Spitzer Space Telescope shows the spectra (middle four lines) of dusty disks around four brown dwarfs, or &quot;failed stars,&quot; located 520 light-years away in the Chamaeleon constellation. The data suggest that the dust in these disks is crystallizing and clumping together in what may be the birth of planets.</photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

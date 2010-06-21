@@ -1,0 +1,186 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>1000</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>sig08-012</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>MIPS</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2009-07-02</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://spitzer.caltech.edu/images/2068-sig08-012-HH-221-Laser-Sharp-Jet-Splits-Water</avm:ReferenceURL>
+  <avm:ResourceID>sig08-012.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0001/5912/sig08-012.tif</avm:ResourceURL>
+  <avm:Spatial.CoordinateFrame>ICRS</avm:Spatial.CoordinateFrame>
+  <avm:Spatial.CoordsystemProjection>TAN</avm:Spatial.CoordsystemProjection>
+  <avm:Spatial.Equinox>J2000</avm:Spatial.Equinox>
+  <avm:Spatial.Quality>Position</avm:Spatial.Quality>
+  <avm:Spatial.ReferenceDimension>
+   <rdf:Seq>
+    <rdf:li>1760</rdf:li>
+    <rdf:li>1160</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceDimension>
+  <avm:Spatial.ReferencePixel>
+   <rdf:Seq>
+    <rdf:li>900</rdf:li>
+    <rdf:li>600</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferencePixel>
+  <avm:Spatial.ReferenceValue>
+   <rdf:Seq>
+    <rdf:li>55.9854166667</rdf:li>
+    <rdf:li>32.0138888889</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceValue>
+  <avm:Spatial.Rotation>0.00000</avm:Spatial.Rotation>
+  <avm:Spatial.Scale>
+   <rdf:Seq>
+    <rdf:li>-6.9444e-5</rdf:li>
+    <rdf:li>6.9444e-5</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.Scale>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Bandpass>
+   <rdf:Seq>
+    <rdf:li>Near-IR</rdf:li>
+    <rdf:li>Near-IR</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Bandpass>
+  <avm:Spectral.CentralWavelength>
+   <rdf:Seq>
+    <rdf:li>3600</rdf:li>
+    <rdf:li>4500</rdf:li>
+    <rdf:li>8000</rdf:li>
+    <rdf:li>24000</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.CentralWavelength>
+  <avm:Spectral.ColorAssignment>
+   <rdf:Seq>
+    <rdf:li>Blue</rdf:li>
+    <rdf:li>Cyan</rdf:li>
+    <rdf:li>Green</rdf:li>
+    <rdf:li>Red</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.ColorAssignment>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>B.4.1.5</rdf:li>
+    <rdf:li>B.4.1.2</rdf:li>
+    <rdf:li>B.3.1.1</rdf:li>
+    <rdf:li>B.3.7.3.</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>A jet of gas firing out of a very young star can be seen ramming into a wall of material in this infrared image from NASA&#39;s Spitzer Space Telescope. The young star, called HH 211-mm, is cloaked in dust and can&#39;t be seen. But streaming away from the star are bipolar jets, color-coded blue in this view. The pink blob at the end of the jet to the lower left shows where the jet is hitting a wall of material. The jet is hitting the wall so hard that shock waves are being generated, which causes ice to vaporize off dust grains. The shock waves are also heating material up, producing energetic ultraviolet radiation. The ultraviolet radiation then breaks the water vapor molecules apart.
+
+The red color at the end of the lower jet represents shock-heated iron, sulfur and dust, while the blue color in both jets denotes shock-heated hydrogen molecules.
+
+HH 211-mm is part of a cluster of about 300 stars, called IC 348, located 1,000 light-years away in the constellation Perseus.
+
+This image is a composite of infrared data from Spitzer&#39;s infrared array camera and its multiband imaging photometer. Light with wavelengths of 3.6 and 4.5 microns is blue; 8-micron-light is green; and 24-micron light is red.</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>HH 211</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>HH 211: Laser-Sharp Jet Splits Water</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA/JPL-Caltech/A. Tappe (Harvard-Smithsonian CfA)</photoshop:Credit>
+  <photoshop:Headline>A jet of gas firing out of a very young star can be seen ramming into a wall of material in this infrared image from NASA&#39;s Spitzer Space Telescope. </photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

@@ -1,0 +1,138 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance.Notes>Distance taken from Fast Facts.</avm:Distance.Notes>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>153</rdf:li>
+    <rdf:li>-</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>ssc2007-04b</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>IRS</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2009-06-30</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://www.spitzer.caltech.edu/images/1753-ssc2007-04b-Cracking-the-Code-of-Faraway-Worlds-an-Exoplanet-Atmosphere</avm:ReferenceURL>
+  <avm:ResourceID>ssc2007-04b.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0001/2476/ssc2007-04b.tif</avm:ResourceURL>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Notes>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Spectrum plotted from 5 to 14 microns</rdf:li>
+   </rdf:Alt>
+  </avm:Spectral.Notes>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>B.1.1.2</rdf:li>
+    <rdf:li>B.1.2.2</rdf:li>
+    <rdf:li>B.1.3.1</rdf:li>
+    <rdf:li>B.1.3.2</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Chart</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:creator>
+   <rdf:Seq>
+    <rdf:li>Spitzer Space Telescope</rdf:li>
+   </rdf:Seq>
+  </dc:creator>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>This infrared data from NASA&#39;s Spitzer Space Telescope  called a spectrum  tells astronomers that a distant gas planet, a so-called &quot;hot Jupiter&quot; called HD 209458b, might be smothered with high clouds. It is one of the first spectra of an alien world. 
+
+A spectrum is created when an instrument called a spectrograph spreads light from an object apart into a rainbow of different wavelengths. Patterns or ripples within the spectrum indicate the presence, or absence, of molecules making up the object.
+
+Astronomers using Spitzer&#39;s spectrograph were able to obtain infrared spectra for two so-called &quot;transiting&quot; hot-Jupiter planets using the &quot;secondary eclipse&quot; technique. In this method, the spectrograph first collects the combined infrared light from the planet plus its star, then, as the planet is eclipsed by the star, the infrared light of just the star. Subtracting the latter from the former reveals the planet&#39;s own rainbow of infrared colors.
+
+When astronomers first saw the infrared spectrum above, they were shocked. It doesn&#39;t look anything like what theorists had predicted. Theorists though the spectra for hot, Jupiter-like planets like this one would be filled with the signatures of molecules in the planets&#39; atmospheres. But the spectrum doesn&#39;t show any molecules. It is what astronomers call &quot;flat.&quot; For example, theorists thought there&#39;d be signatures of water in the wavelength ranges of 8 to 9 microns. The fact that water is not seen there might indicate that the water is hidden under a thick blanket of high, dry clouds.
+
+This spectrum was produced by Dr. Mark R. Swain of NASA&#39;s Jet Propulsion Laboratory in Pasadena, Calif., using a complex set of mathematical tools. It was derived using two different methods, both of which led to the same result. The data were taken on July 6 and 13, 2005, by Dr. Jeremy Richardson of NASA&#39;s Goddard Space Flight Center and his team using Spitzer&#39;s infrared spectrograph.</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>HD 209458b</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Cracking the Code of Faraway Worlds: an Exoplanet Atmosphere</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA/JPL-Caltech/M. Swain (JPL)</photoshop:Credit>
+  <photoshop:Headline>This infrared data from NASA&#39;s Spitzer Space Telescope  called a spectrum  tells astronomers that a distant gas planet, a so-called &quot;hot Jupiter&quot; called HD 209458b, might be smothered with high clouds. It is one of the first spectra of an alien world.</photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

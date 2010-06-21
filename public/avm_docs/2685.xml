@@ -1,0 +1,203 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>45000000</rdf:li>
+    <rdf:li>0.00424</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>ssc2009-14a</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2009-08-10</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:ReferenceURL>http://www.spitzer.caltech.edu/images/2685-ssc2009-14a1-Coiled-Creature-of-the-Night</avm:ReferenceURL>
+  <avm:ResourceID>ssc2009-14a1.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0004/2404/ssc2009-14a1.tif</avm:ResourceURL>
+  <avm:Spatial.CoordinateFrame>ICRS</avm:Spatial.CoordinateFrame>
+  <avm:Spatial.CoordsystemProjection>TAN</avm:Spatial.CoordsystemProjection>
+  <avm:Spatial.Equinox>J2000</avm:Spatial.Equinox>
+  <avm:Spatial.Quality>Full</avm:Spatial.Quality>
+  <avm:Spatial.ReferenceDimension>
+   <rdf:Seq>
+    <rdf:li>2056</rdf:li>
+    <rdf:li>2056</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceDimension>
+  <avm:Spatial.ReferencePixel>
+   <rdf:Seq>
+    <rdf:li>1028</rdf:li>
+    <rdf:li>1028</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferencePixel>
+  <avm:Spatial.ReferenceValue>
+   <rdf:Seq>
+    <rdf:li>41.578658500655749</rdf:li>
+    <rdf:li>-30.273806791362663</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceValue>
+  <avm:Spatial.Rotation>115.0</avm:Spatial.Rotation>
+  <avm:Spatial.Scale>
+   <rdf:Seq>
+    <rdf:li>-0.00010416666667</rdf:li>
+    <rdf:li>0.00010416666667</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.Scale>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Bandpass>
+   <rdf:Seq>
+    <rdf:li>Near-IR</rdf:li>
+    <rdf:li>Near-IR</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Bandpass>
+  <avm:Spectral.CentralWavelength>
+   <rdf:Seq>
+    <rdf:li>3600</rdf:li>
+    <rdf:li>4500</rdf:li>
+    <rdf:li>5800</rdf:li>
+    <rdf:li>8000</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.CentralWavelength>
+  <avm:Spectral.ColorAssignment>
+   <rdf:Seq>
+    <rdf:li>Blue</rdf:li>
+    <rdf:li>Green</rdf:li>
+    <rdf:li>Red</rdf:li>
+    <rdf:li>Red</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.ColorAssignment>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>C.5.1.2</rdf:li>
+    <rdf:li>C.5.1.7</rdf:li>
+    <rdf:li>C.5.3.3</rdf:li>
+    <rdf:li>C.5.3.2.2</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Temporal.IntegrationTime>
+   <rdf:Seq>
+    <rdf:li>1876.</rdf:li>
+    <rdf:li>1876.</rdf:li>
+    <rdf:li>1876.</rdf:li>
+    <rdf:li>1876.</rdf:li>
+   </rdf:Seq>
+  </avm:Temporal.IntegrationTime>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>NASA&#39;s Spitzer Space Telescope has imaged a wild creature of the dark -- a coiled galaxy with an eye-like object at its center. 
+
+The galaxy, called NGC 1097, is located 50 million light-years away. It is spiral-shaped like our Milky Way, with long, spindly arms of stars. The &quot;eye&quot; at the center of the galaxy is actually a monstrous black hole surrounded by a ring of stars. In this color-coded infrared view from Spitzer, the area around the invisible black hole is blue and the ring of stars, white.
+
+The black hole is huge, about 100 million times the mass of our sun, and is feeding off gas and dust along with the occasional unlucky star. Our Milky Way&#39;s central black hole is tame in comparison, with a mass of a few million suns. 
+
+The ring around the black hole is bursting with new star formation. An inflow of material toward the central bar of the galaxy is causing the ring to light up with new stars.
+
+The galaxy&#39;s red spiral arms and the swirling spokes seen between the arms show dust heated by newborn stars. Older populations of stars scattered through the galaxy are blue. The fuzzy blue dot to the left, which appears to fit snuggly between the arms, is a companion galaxy. Astronomers say it is unclear whether this companion poked a hole in the larger galaxy, or just happens to be aligned in a gap in the arms.
+
+Other dots in the picture are either nearby stars in our galaxy, or distant galaxies.
+
+This image was taken during Spitzer&#39;s cold mission, before it ran out of liquid coolant. The observatory&#39;s warm mission is ongoing, with two infrared channels operating at about 30 Kelvin (minus 406 degrees Fahrenheit). 
+
+Infrared light with a wavelength of 3.6 microns is blue; 4.5-micron light is green and 8.0-micron light is red. The contribution from starlight measured at 3.6 microns has been subtracted from the 8.0-micron image to enhance the visibility of the dust features.</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>NGC 1097</rdf:li>
+    <rdf:li>Arp 77</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Coiled Creature of the Night</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA/JPL-Caltech/The SINGS Team (SSC/Caltech)</photoshop:Credit>
+  <photoshop:Headline>NASA&#39;s Spitzer Space Telescope has imaged a wild creature of the dark -- a coiled galaxy with an eye-like object at its center.</photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

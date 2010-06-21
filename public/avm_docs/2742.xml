@@ -1,0 +1,168 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>ssc2008-18a</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>MIPS</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2009-10-01</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:ReferenceURL>http://www.spitzer.caltech.edu/images/2742-ssc2008-18a-Anatomy-of-a-Busted-Comet</avm:ReferenceURL>
+  <avm:ResourceID>ssc2008-18a.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0004/8342/ssc2008-18a.tif</avm:ResourceURL>
+  <avm:Spatial.CoordinateFrame>ICRS</avm:Spatial.CoordinateFrame>
+  <avm:Spatial.CoordsystemProjection>TAN</avm:Spatial.CoordsystemProjection>
+  <avm:Spatial.Equinox>J2000</avm:Spatial.Equinox>
+  <avm:Spatial.Notes>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Coordinates derived from original image and do not reflect final crop/rotation</rdf:li>
+   </rdf:Alt>
+  </avm:Spatial.Notes>
+  <avm:Spatial.ReferenceDimension>
+   <rdf:Seq>
+    <rdf:li>2984</rdf:li>
+    <rdf:li>3639</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceDimension>
+  <avm:Spatial.ReferencePixel>
+   <rdf:Seq>
+    <rdf:li>1556.613857</rdf:li>
+    <rdf:li>2308.963667</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferencePixel>
+  <avm:Spatial.ReferenceValue>
+   <rdf:Seq>
+    <rdf:li>61.058748</rdf:li>
+    <rdf:li>40.949664</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceValue>
+  <avm:Spatial.Rotation>-173.78695</avm:Spatial.Rotation>
+  <avm:Spatial.Scale>
+   <rdf:Seq>
+    <rdf:li>-6.80560000000000e-04</rdf:li>
+    <rdf:li>6.80560000000000e-04</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.Scale>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Bandpass>
+   <rdf:Seq>
+    <rdf:li>Mid-IR</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Bandpass>
+  <avm:Spectral.CentralWavelength>
+   <rdf:Seq>
+    <rdf:li>24000</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.CentralWavelength>
+  <avm:Spectral.ColorAssignment>
+   <rdf:Seq>
+    <rdf:li>Pseudocolor</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.ColorAssignment>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>A.2.2.2</rdf:li>
+    <rdf:li>A.2.2.1</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>NASA&#39;s Spitzer Space Telescope captured the picture on the left of comet Holmes in March 2008, five months after the comet suddenly erupted and brightened a millionfold overnight. The contrast of the picture has been enhanced on the right to show the anatomy of the comet.
+
+Every six years, comet 17P/Holmes speeds away from Jupiter and heads inward toward the sun, traveling the same route typically without incident. However, twice in the last 116 years, in November 1892 and October 2007, comet Holmes mysteriously exploded as it approached the asteroid belt. Astronomers still do not know the cause of these eruptions.
+
+Spitzer&#39;s infrared picture at left reveals fine dust particles that make up the outer shell, or coma, of the comet. The nucleus of the comet is within the bright whitish spot in the center, while the yellow area shows solid particles that were blown from the comet in the explosion. The comet is headed away from the sun, which lies beyond the right-hand side of the picture.
+
+The contrast-enhanced picture on the right shows the comet&#39;s outer shell, and strange filaments, or streamers, of dust. The streamers and shell are a yet another mystery surrounding comet Holmes. Scientists had initially suspected that the streamers were small dust particles ejected from fragments of the nucleus, or from hyerpactive jets on the nucleus, during the October 2007 explosion. If so, both the streamers and the shell should have shifted their orientation as the comet followed its orbit around the sun. Radiation pressure from the sun should have swept the material back and away from it. But pictures of comet Holmes taken by Spitzer over time show the streamers and shell in the same configuration, and not pointing away from the sun. The observations have left astronomers stumped.
+
+The horizontal line seen in the contrast-enhanced picture is a trail of debris that travels along with the comet in its orbit.
+
+The Spitzer picture was taken with the spacecraft&#39;s multiband imaging photometer at an infrared wavelength of 24 microns.</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>Comet Holmes</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Anatomy of a Busted Comet</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA/JPL-Caltech/W. Reach (SSC-Caltech)</photoshop:Credit>
+  <photoshop:Headline>NASA&#39;s Spitzer Space Telescope captured the picture on the left of comet Holmes in March 2008, five months after the comet suddenly erupted and brightened a millionfold overnight. The contrast of the picture has been enhanced on the right to show the anatomy of the comet.</photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

@@ -1,0 +1,156 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>26093</rdf:li>
+    <rdf:li>-</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>ssc2008-13a</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>MIPS</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2009-06-30</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://www.spitzer.caltech.edu/images/1941-ssc2008-13a--Peony-Nebula-Star-Settles-for-Silver-Medal</avm:ReferenceURL>
+  <avm:ResourceID>ssc2008-13a.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0001/0098/ssc2008-13a.tif</avm:ResourceURL>
+  <avm:Spatial.ReferenceValue>
+   <rdf:Seq>
+    <rdf:li>17.771</rdf:li>
+    <rdf:li>-29.027</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceValue>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Bandpass>
+   <rdf:Seq>
+    <rdf:li>Near-IR</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Bandpass>
+  <avm:Spectral.CentralWavelength>
+   <rdf:Seq>
+    <rdf:li>3600</rdf:li>
+    <rdf:li>8000</rdf:li>
+    <rdf:li>24000</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.CentralWavelength>
+  <avm:Spectral.ColorAssignment>
+   <rdf:Seq>
+    <rdf:li>Blue</rdf:li>
+    <rdf:li>Green</rdf:li>
+    <rdf:li>Red</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.ColorAssignment>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>B.3.2.4</rdf:li>
+    <rdf:li>B.4.2.1</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Temporal.IntegrationTime>
+   <rdf:Seq>
+    <rdf:li>4145</rdf:li>
+   </rdf:Seq>
+  </avm:Temporal.IntegrationTime>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>If our galaxy, the Milky Way, were to host its own version of the Olympics, the title for the brightest known star would go to a massive star called Eta Carina. However, a new runner-up -- now the second-brightest star in our galaxy -- has been discovered in the galaxy&#39;s dusty and frenzied interior. This image from NASA&#39;s Spitzer Space Telescope shows the new silver medalist, circled in the inset above, in the central region of our Milky Way. Dubbed the &#39;Peony nebula&#39; star, this blazing ball of gas shines with the equivalent light of 3.2 million suns. The reigning champ, Eta Carina, produces the equivalent of 4.7 million suns worth of light -- though astronomers say these estimates are uncertain, and it&#39;s possible that the Peony nebula star could be even brighter than Eta Carina.If the Peony star is so bright, why doesn&#39;t it stand out more in this view? The answer is dust. This star is located in a very dusty region jam packed with stars. In fact, there could be other super bright stars still hidden deep in the stellar crowd. Spitzer&#39;s infrared eyes allowed it to pierce the dust and assess the Peony nebula star&#39;s true brightness. Likewise, infrared data from the European Southern Observatory&#39;s New Technology Telescope in Chile were integral in calculating the Peony nebula star&#39;s luminosity.The Peony nebula, which surrounds the Peony nebular star, is the reddish cloud of dust in and around the white circle.This is a three-color composite showing infrared observations from two Spitzer instruments. Blue represents 3.6-micron light and green shows light of 8 microns, both captured by Spitzer&#39;s infrared array camera. Red is 24-micron light detected by Spitzer&#39;s multiband imaging photometer.</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>Peony Nebula</rdf:li>
+    <rdf:li>WR 102ka</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>&#39;Peony Nebula&#39; Star Settles for Silver Medal</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA/JPL-Caltech/Potsdam Univ.</photoshop:Credit>
+  <photoshop:Headline>This image from NASA&#39;s Spitzer Space Telescope shows the Peony Nebular, which may contain the second brightest star in our galaxy.</photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

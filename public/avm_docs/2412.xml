@@ -1,0 +1,185 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance.Notes>Distance taken from Quickfacts.</avm:Distance.Notes>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>2700</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>sig05-028</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>MIPS</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2009-07-13</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://www.spitzer.caltech.edu/images/2412-sig05-028-Stellar-Snowflake-Cluster</avm:ReferenceURL>
+  <avm:ResourceID>sig05-028.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0001/6573/sig05-028.tif</avm:ResourceURL>
+  <avm:Spatial.CoordinateFrame>ICRS</avm:Spatial.CoordinateFrame>
+  <avm:Spatial.Equinox>J2000</avm:Spatial.Equinox>
+  <avm:Spatial.Quality>Position</avm:Spatial.Quality>
+  <avm:Spatial.ReferenceValue>
+   <rdf:Seq>
+    <rdf:li>100.039047108</rdf:li>
+    <rdf:li>9.31307719886</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceValue>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Bandpass>
+   <rdf:Seq>
+    <rdf:li>Near-IR</rdf:li>
+    <rdf:li>Near-IR</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Bandpass>
+  <avm:Spectral.CentralWavelength>
+   <rdf:Seq>
+    <rdf:li>3600</rdf:li>
+    <rdf:li>4500</rdf:li>
+    <rdf:li>5800</rdf:li>
+    <rdf:li>8000</rdf:li>
+    <rdf:li>24000</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.CentralWavelength>
+  <avm:Spectral.ColorAssignment>
+   <rdf:Seq>
+    <rdf:li>Blue</rdf:li>
+    <rdf:li>Blue</rdf:li>
+    <rdf:li>Green</rdf:li>
+    <rdf:li>Green</rdf:li>
+    <rdf:li>Red</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.ColorAssignment>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>B.4.1.2.</rdf:li>
+    <rdf:li>B.3.6.4.</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:creator>
+   <rdf:Seq>
+    <rdf:li>Spitzer Space Telescope</rdf:li>
+   </rdf:Seq>
+  </dc:creator>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Newborn stars, hidden behind thick dust, are revealed in this image of a section of the Christmas Tree Cluster from NASA&#39;s Spitzer Space Telescope, created in joint effort between Spitzer&#39;s Infrared Array Camera (IRAC) and Multiband Imaging Photometer (MIPS) instruments.
+
+The newly revealed infant stars appear as pink and red specks toward the center of the combined IRAC-MIPS image (left panel). The stars appear to have formed in regularly spaced intervals along linear structures in a configuration that resembles the spokes of a wheel or the pattern of a snowflake. Hence, astronomers have nicknamed this the &quot;Snowflake Cluster.&quot;
+
+Star-forming clouds like this one are dynamic and evolving structures. Since the stars trace the straight line pattern of spokes of a wheel, scientists believe that these are newborn stars, or &quot;protostars.&quot; At a mere 100,000 years old, these infant structures have yet to &quot;crawl&quot; away from their location of birth. Over time, the natural drifting motions of each star will break this order, and the snowflake design will be no more.
+
+While most of the visible-light stars that give the Christmas Tree Cluster its name and triangular shape do not shine brightly in Spitzer&#39;s infrared eyes, all of the stars forming from this dusty cloud are considered part of the cluster.Like a dusty cosmic finger pointing up to the newborn clusters, Spitzer also illuminates the optically dark and dense Cone Nebula, the tip of which can be seen towards the bottom left corner of each image.
+
+The combined IRAC-MIPS image shows the presence of organic molecules mixed with dust as wisps of green, which have been illuminated by nearby star formation. The larger yellowish dots neighboring the baby red stars in the Snowflake Cluster are massive stellar infants forming from the same cloud. The blue dots sprinkled across the image represent older Milky Way stars at various distances along this line of sight. The image is a five-channel, false-color composite, showing emission from wavelengths of 3.6 and 4.5 microns (blue), 5.8 microns (cyan), 8 microns (green), and 24 microns (red).
+
+IRAC&#39;s near and mid-infrared eyes (top right) show that the nebula is still actively forming stars. The wisps of red (represented as green in the IRAC-MIPS image) are organic molecules mixed with dust, which has been illuminated by nearby star formation. The IRAC picture is a four-channel, false-color composite, showing emission from wavelengths of 3.6 microns (blue), 4.5 microns (green), 5.8 microns (orange) and 8.0 microns (red).
+
+MIPS&#39; far-infrared eyes (bottom right) the colder dust of the nebula and unwraps the youngest stellar babies from their dusty covering. This is a false-color image showing emission at 24 microns (red).</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>NGC 2264</rdf:li>
+    <rdf:li>Snowflake Cluster</rdf:li>
+    <rdf:li>Cone Nebula</rdf:li>
+    <rdf:li>Christmas Tree Cluster</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Stellar Snowflake Cluster</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA/JPL-Caltech/P.S. Teixeira (Harvard-Smithsonian CfA)</photoshop:Credit>
+  <photoshop:Headline>Newborn stars, hidden behind thick dust, are revealed in this image of a section of the Christmas Tree Cluster from NASA&#39;s Spitzer Space Telescope, created in joint effort between Spitzer&#39;s Infrared Array Camera (IRAC) and Multiband Imaging Photometer (MIPS) instruments.</photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

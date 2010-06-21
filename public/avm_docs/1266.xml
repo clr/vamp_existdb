@@ -1,0 +1,199 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance.Notes>Distance taken from Fast Facts and NED</avm:Distance.Notes>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>68000000</rdf:li>
+    <rdf:li>0.005475</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>KPNO</rdf:li>
+    <rdf:li>KPNO</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>ssc2004-14a </avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>-</rdf:li>
+    <rdf:li>-</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2009-06-24</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://www.spitzer.caltech.edu/images/1266-ssc2004-14a%20-Fire-Within-the-Antennae-Galaxies</avm:ReferenceURL>
+  <avm:ResourceID>ssc2004-14a.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0001/5194/ssc2004-14a.tif</avm:ResourceURL>
+  <avm:Spatial.CoordinateFrame>ICRS</avm:Spatial.CoordinateFrame>
+  <avm:Spatial.CoordsystemProjection>TAN</avm:Spatial.CoordsystemProjection>
+  <avm:Spatial.Equinox>J2000</avm:Spatial.Equinox>
+  <avm:Spatial.Quality>Position</avm:Spatial.Quality>
+  <avm:Spatial.ReferenceDimension>
+   <rdf:Seq>
+    <rdf:li>1125.0</rdf:li>
+    <rdf:li>1125.0</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceDimension>
+  <avm:Spatial.ReferencePixel>
+   <rdf:Seq>
+    <rdf:li>562.5</rdf:li>
+    <rdf:li>562.5</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferencePixel>
+  <avm:Spatial.ReferenceValue>
+   <rdf:Seq>
+    <rdf:li>180.47148829353287</rdf:li>
+    <rdf:li>-18.876984701528151</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceValue>
+  <avm:Spatial.Rotation>-4.4623159223417019</avm:Spatial.Rotation>
+  <avm:Spatial.Scale>
+   <rdf:Seq>
+    <rdf:li>-6.4223897965968291E-05</rdf:li>
+    <rdf:li>6.4223897965968291E-05</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.Scale>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Optical</rdf:li>
+    <rdf:li>Optical</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Bandpass>
+   <rdf:Seq>
+    <rdf:li>B-band</rdf:li>
+    <rdf:li>R-band</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Bandpass>
+  <avm:Spectral.CentralWavelength>
+   <rdf:Seq>
+    <rdf:li>440</rdf:li>
+    <rdf:li>700</rdf:li>
+    <rdf:li>8000</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.CentralWavelength>
+  <avm:Spectral.ColorAssignment>
+   <rdf:Seq>
+    <rdf:li>Blue</rdf:li>
+    <rdf:li>Green</rdf:li>
+    <rdf:li>Red</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.ColorAssignment>
+  <avm:Spectral.Notes>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Multi</rdf:li>
+   </rdf:Alt>
+  </avm:Spectral.Notes>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>C.5.1.7.</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:creator>
+   <rdf:Seq>
+    <rdf:li>Spitzer Space Telescope</rdf:li>
+   </rdf:Seq>
+  </dc:creator>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>This false-color image from NASA&#39;s Spitzer Space Telescope reveals hidden populations of newborn stars at the heart of the colliding &quot;Antennae&quot; galaxies. These two galaxies, known individually as NGC 4038 and 4039, are located around 68 million light-years away and have been merging together for about the last 800 million years. The latest Spitzer observations provide a snapshot of the tremendous burst of star formation triggered in the process of this collision, particularly at the site where the two galaxies overlap.
+
+The main image is a false-color composite of infrared data from Spitzer and visible-light data from Kitt Peak National Observatory, Tucson, Ariz. Visible light from stars in the galaxies (blue and green) is shown together with infrared light from warm dust clouds heated by newborn stars (red).
+
+The two nuclei, or centers, of the merging galaxies show up as yellow-white areas, one above the other. The brightest clouds of forming stars lie in the overlap region between and left of the nuclei.
+
+The upper right panel shows the Spitzer image by itself. This picture was taken by the infrared array camera and is a combination of infrared light ranging from 3.6 microns (shown in blue) to 8.0 microns (shown in red). The dust emission (red) is by far the strongest feature in this image. Starlight was systematically subtracted from the longer wavelength data (red) to enhance dust features.
+
+The lower right panel shows the true-color, visible-light image by itself. Here, we find a strikingly different view, with the bright star-forming features seen in the Spitzer image buried within dark clouds of dust.
+
+Throughout the sky, astronomers have identified many of these so-called &quot;interacting&quot; galaxies, whose spiral discs have been stretched and distorted by their mutual gravity as they pass close to one another. The distances involved are so large that the interactions evolve on timescales comparable to geologic changes on Earth. Observations of such galaxies, combined with computer models of these collisions, show that the galaxies often become forever bound to one another, eventually merging into a single, spheroidal-shaped galaxy.
+
+In the Spitzer image, wavelengths of 3.6 microns are represented in blue, 4.5 microns in green and 5.8-8.0 microns in red. In the composite image, wavelengths of .44 microns are represented in blue, .70 microns in green and 8.0 microns in red. The Spitzer image was taken on Dec. 24, 2003. 
+</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>Antennae Galaxies</rdf:li>
+    <rdf:li>NGC 4038</rdf:li>
+    <rdf:li>NGC 4039</rdf:li>
+    <rdf:li>Arp 244</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Fire Within the Antennae Galaxies</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA/JPL-Caltech/Z. Wang (Harvard-Smithsonian CfA); Visible: M. Rushing/NOAO</photoshop:Credit>
+  <photoshop:Headline>This false-color image from NASA&#39;s Spitzer Space Telescope reveals hidden populations of newborn stars at the heart of the colliding &quot;Antennae&quot; galaxies. These two galaxies, known individually as NGC 4038 and 4039, are located around 68 million light-years away and have been merging together for about the last 800 million years. </photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

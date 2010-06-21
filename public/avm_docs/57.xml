@@ -1,0 +1,197 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance.Notes>Distance taken from Fast Facts</avm:Distance.Notes>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>-</rdf:li>
+    <rdf:li>37000000</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Hubble</rdf:li>
+    <rdf:li>GALEX</rdf:li>
+    <rdf:li>Chandra</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>sig07-024</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>ACS</rdf:li>
+    <rdf:li>FUV</rdf:li>
+    <rdf:li>ACIS</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2008-05-28</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://www.spitzer.caltech.edu/images/57-sig07-024-A-Classic-Beauty</avm:ReferenceURL>
+  <avm:Spatial.CoordinateFrame>ICRS</avm:Spatial.CoordinateFrame>
+  <avm:Spatial.CoordsystemProjection>TAN</avm:Spatial.CoordsystemProjection>
+  <avm:Spatial.Equinox>J2000</avm:Spatial.Equinox>
+  <avm:Spatial.Notes>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>            </rdf:li>
+   </rdf:Alt>
+  </avm:Spatial.Notes>
+  <avm:Spatial.Quality>Full</avm:Spatial.Quality>
+  <avm:Spatial.ReferenceDimension>
+   <rdf:Seq>
+    <rdf:li>2850.0</rdf:li>
+    <rdf:li>1978.0</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceDimension>
+  <avm:Spatial.ReferencePixel>
+   <rdf:Seq>
+    <rdf:li>1426.0</rdf:li>
+    <rdf:li>990.0</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferencePixel>
+  <avm:Spatial.ReferenceValue>
+   <rdf:Seq>
+    <rdf:li>47.2132003</rdf:li>
+    <rdf:li>202.4680580</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceValue>
+  <avm:Spatial.Rotation>-1.4</avm:Spatial.Rotation>
+  <avm:Spatial.Scale>
+   <rdf:Seq>
+    <rdf:li>5.60272e-05</rdf:li>
+    <rdf:li>5.60272e-05</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.Scale>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Optical</rdf:li>
+    <rdf:li>Ultraviolet</rdf:li>
+    <rdf:li>X-ray</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Bandpass>
+   <rdf:Seq>
+    <rdf:li>Mid-IR</rdf:li>
+    <rdf:li>V-band</rdf:li>
+    <rdf:li>Far-UV</rdf:li>
+    <rdf:li>X-ray</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Bandpass>
+  <avm:Spectral.CentralWavelength>
+   <rdf:Seq>
+    <rdf:li>8000</rdf:li>
+    <rdf:li>550</rdf:li>
+    <rdf:li>150</rdf:li>
+    <rdf:li>0.8267</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.CentralWavelength>
+  <avm:Spectral.ColorAssignment>
+   <rdf:Seq>
+    <rdf:li>Red</rdf:li>
+    <rdf:li>Green</rdf:li>
+    <rdf:li>Blue</rdf:li>
+    <rdf:li>Purple</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.ColorAssignment>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>B.5.4.7</rdf:li>
+    <rdf:li>C.5.5.1</rdf:li>
+    <rdf:li>C.5.1.1</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:creator>
+   <rdf:Seq>
+    <rdf:li>Spitzer Space Telescope</rdf:li>
+   </rdf:Seq>
+  </dc:creator>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Second Update for secondary images
+
+Update for secondary images
+
+M51, whose name comes from being the 51st entry in Charles Messier&#39;s catalog, is considered to be one of the classic examples of a spiral galaxy. At a distance of about 30 million light years from Earth, it is also one of the brightest spirals in the night sky. A composite image of M51, also known as the Whirlpool Galaxy, shows the majesty of its structure in a dramatic new way through several of NASA&#39;s orbiting observatories. X-ray data from NASA&#39;s Chandra X-ray Observatory reveals point-like sources (purple) that are black holes and neutron stars in binary star systems. Chandra also detects a diffuse glow of hot gas that permeates the space between the stars. Optical data from the Hubble Space Telescope (green) and infrared emission from the Spitzer Space Telescope (red) both highlight long lanes in the spiral arms that consist of stars and gas laced with dust. A view of M51 with the GALEX telescope shows hot, young stars that produce lots of ultraviolet energy (blue).
+
+The textbook spiral structure is thought be the result of an interaction M51 is experiencing with its close galactic neighbor, NGC 5195, which is seen just above. Some simulations suggest M51&#39;s sharp spiral shape was partially caused when NGC 5195 passed through its main disk about 500 million years ago. This gravitational tug of war may also have triggered an increased level of star formation in M51. The companion galaxy&#39;s pull would be inducing extra starbirth by compressing gas, jump-starting the process by which stars form.</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>NGC 5194</rdf:li>
+    <rdf:li>Whirlpool Galaxy</rdf:li>
+    <rdf:li>Messier 51</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>A Classic Beauty: M51, The Whirlpool Galaxy Across the Spectrum</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>X-ray: NASA/CXC/Wesleyan Univ./R.Kilgard et al; UV: NASA/JPL-Caltech; Optical: NASA/ESA/S. Beckwith &amp; Hubble Heritage Team (STScI/AURA);IR: NASA/JPL-Caltech/ Univ. Arizona/R. Kennicutt</photoshop:Credit>
+  <photoshop:Headline>M51, the Whirlpool Galaxy, is shown in X-Ray, Ultraviolet, Visible and Infrared light from Chandra, GALEX, Hubble and Spitzer.   </photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

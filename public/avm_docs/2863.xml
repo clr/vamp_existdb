@@ -1,0 +1,147 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>407</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>IRAS</rdf:li>
+    <rdf:li>ISO</rdf:li>
+    <rdf:li>2MASS</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>sig09-010</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:MetadataDate>2009-12-23</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://spitzer.caltech.edu/images/2863-sig09-010-A-Quarter-Century-of-Infrared-Astronomy</avm:ReferenceURL>
+  <avm:ResourceID>sig09-010.tif</avm:ResourceID>
+  <avm:ResourceURL>http://spitzer.caltech.edu/uploaded_files/images/0005/2365/sig09-010.tif</avm:ResourceURL>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Notes>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Composite layout with various color assignments spanning 1.3 to 100 microns.</rdf:li>
+   </rdf:Alt>
+  </avm:Spectral.Notes>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>B.4.1.2</rdf:li>
+    <rdf:li>B.3.1.2</rdf:li>
+    <rdf:li>B.4.2.3.1</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>This composite graphic encompasses a quarter century of infrared astronomy from space, a world away from Galileo Galilei&#39;s eight-power telescope that was the cutting edge of astronomy 400 years ago. The composite recognizes the International Year of Astronomy and celebrates the dramatic progress in our understanding of the universe derived from infrared observations.  It also illustrates some of the contributions from the Infrared Processing and Analysis Center (IPAC) to this progress by way of astronomical data processing, analysis, archiving and dissemination. 
+
+Infrared astronomy, especially from space, explores up a vast portion of the spectrum beyond the red end of visible light. Through this window the universe emits a tremendous variety of information about the physical and chemical composition of various regions, about their energetic states, and about the current and historical activity of star formation. Infrared and submillimeter wavelengths still hold the most promise for studying the earliest moments in the history of the universe when diffuse gas was transformed into the first stars and galaxies. This era is thought to have occurred around the first percent of the age of the universe.
+
+While celebrating this rich legacy of infrared astronomy, infrared astronomers are also enjoying a golden age of sorts, with an unprecedented number of missions currently in-flight: NASA&#39;s Spitzer Space Telescope is continuing its warm mission; the European Space Agency Herschel and Planck telescopes are in their prime mission phase; NASA&#39;s Wide Field Infrared Survey Explorer (WISE) just launched and is expected to start mapping the sky in early 2010.  All of these missions have links to IPAC.
+
+&quot;Rho Ophiuchi&quot; is a complex region of star formation centered on a large cloud of molecular gas, and located about 400 light-years from Earth. Hundreds of young stars are forming out of the central cloud. Their typical age is 300,000 years, seen in the first &quot;moments&quot; of the billions of years in a star&#39;s life span.
+
+IRAS, the InfraRed Astronomical Satellite, was a joint project between the U.S., the Netherlands and the United Kingdom. It operated in Earth orbit from 25 January to 22 November 1983, surveying the infrared sky and dramatically expanding our understanding of the Universe by revealing surprising new phenomena.  This false-color image renders infrared light into visible light, showing 12 m emission as blue, 25 and 60 m as green, and 100 m as red. The infrared emission originates in cosmic dust at a range of temperatures, with the colder dust appearing redder in this image. The field of view is about 18 degrees to a side. The small grey inset is amplified into the views shown in the remaining three frames. 
+
+IPAC was established twenty-five years ago on the campus of the California Institute of Technology to provide expertise and support for the processing, analysis and interpretation of data from IRAS. 
+
+ISO, the Infrared Space Observatory, was a European Space Agency project with Japanese and U.S. participation, and operated from 17 November 1995 to 16 May 1998. The image shows 7 m emission in blue and 15 m in red, revealing very small dust grains heated by stars as diffuse emission, and very young stars still in the formation stages as the reddish points, whereas older stars appear as blue dots. The field of view is the same as shown for 2MASS and Spitzer, about 3/4 of a degree on a side. 
+
+The scientific and technical expertise of the IPAC staff was one of the many heritages from IRAS, prompting NASA to designate IPAC as the U.S. science support center for ISO.
+
+2MASS, the Two Micron All-Sky Survey, a U.S. National Aeronautics and Space Administration and National Science Foundation project, gathered data from June 1997 to February 2001, mapping the whole sky in the near infrared from the ground. The picture shows 1.3 m emission as blue, 1.6 m as green, and 2.2 m as red. The sky appears dark towards dense parts of the cloud because dust absorbs the light, whereas the reddish sources signal young stars. The field of view is about 3/4 of a degree on a side.
+
+Its unique capabilities made IPAC the obvious choice for processing the many terabytes of data from 2MASS. The University of Massachusetts developed and operated the two observatories that acquired the data. IPAC&#39;s role included design of survey strategy, data processing, quality control, and the production of final catalogs and final data products from the primary survey and the extended mission.
+
+The Spitzer Space Telescope is an infrared observatory built and operated by the Jet Propulsion Laboratory of the California Institute of Technology for the U.S. National Aeronautics and Space Administration.  It was launched on 25 August 2003 into a Sun-centered orbit, and ran out of the liquid helium that kept it cold on 15 May 2005.  Today, it still observes the cosmos at 3.6 and 4.5 m, using one out of three original instruments. The picture shows 3.6 m emission as blue, 8 m as green, and 24 m as red. Dust glows with different colors depending on its composition and heating, whereas the colors of the stars indicate their age, blue for mature stars, and red for those still surrounded by natal cloud material. The field of view is again about 3/4 of a degree on a side.
+
+In early 1998, IPAC was designated as the science operations center for the Spitzer Space Telescope, NASA&#39;s Infrared Great Observatory. The Spitzer Science Center (SSC), is an autonomously managed entity within IPAC, which relies on the skills and knowledge of IPAC experts in supporting Spitzer.</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>Rho Oph</rdf:li>
+    <rdf:li>Rho Ophiuchi</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>A Quarter Century of Infrared Astronomy</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>IRAS / ISO / 2MASS / Spitzer</photoshop:Credit>
+  <photoshop:Headline>International Year of Astronomy 2009 (IYA)
+Infrared Processing and Analysis Center, California Institute of Technology</photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

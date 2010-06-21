@@ -1,0 +1,98 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:ID>ssc2005-14d</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:MetadataDate>2009-08-04</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://www.spitzer.caltech.edu/images/2662-ssc2005-14d-Illustration-of-a-Light-Echo</avm:ReferenceURL>
+  <avm:ResourceID>ssc2005-14d.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0004/2176/ssc2005-14d.tif</avm:ResourceURL>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>B.4.2.2.1.</rdf:li>
+    <rdf:li>B.3.1.8.</rdf:li>
+    <rdf:li>X.10.2</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Artwork</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Imagine yourself standing in a large open chamber like an aircraft hangar. If you clap your hands, you will be rewarded with a series of echoes reverberating through the building. These sound echoes are very much like a phenomenon astronomers have dubbed &quot;light echoes.&quot;A sound echo occurs because of two basic properties of sound: it travels at a limited speed, and it will reflect off of many surfaces. In the case of an aircraft hangar, the walls are far enough away that a clapping sound will take some time to reach the walls, reflect, then return. As a result, a listener will hear a delay. Because the sound reflects off of walls at different distances, returning at different times, a listener will often hear many echoes.Light possesses the same properties as sound and thus can also produce echoes. However, since the speed of light is fantastically greater than the speed of sound, spaces as tiny as an aircraft hangar would not give rise to a noticeable light delay. For example, if a flash bulb goes off in even the largest hangar, only the most sensitive scientific instruments could detect the tiny delay, or light echo.In deep space, where distances between objects are measured in light-years, astronomers can directly observe echoes from cosmic flashes of light. The sequence of events associated with one such astronomical light echo are sketched out in this illustration.The stage is set in panel A, where a neutron star surrounded by dark, cold clouds of dust emits a brilliant burst of light. This flash travels out in all directions, but will still take years before it reaches the nearest dust cloud. Earth is towards the bottom of the page. Downward-pointing arrows in this figure indicate light rays that are headed toward Earth and the telescopes of astronomers.In panel B, light from the flash reaches the first, closest dust cloud, heating it up. The cloud, which was too cold to detect directly, begins warmly emitting infrared light. This infrared echo travels towards Earth, though it lags behind the original flash (which got a head start) and will arrive later. This can be seen in the relative positions of the arrows.Light from the flash continues to pass through and warm the first cloud in panel C. It has also just reached the second dust cloud and started a new echo there. Note that the arrow from the first light echo has progressed as far as the arrow from the new echo. This means the light from both of them will reach the Earth at the same time.In panel D the flash continues expanding outward, passing through the rest of the second cloud and now warming a third cloud as well. There are several groups of arrows indicating the continuing progress of these light echoes. The numbers on these Earth-bound light rays indicate the order in which they will arrive.The initial flash (1) will clearly arrive at Earth first. The first light echoes from all three clouds (2) will arrive next, all around the same time. Echoes from other parts of the clouds (3) will arrive last.Panel E shows the astronomer&#39;s view of the light echo event as seen at the three times noted above. Initially, the telescope sees only the flash from the neutron star. At this point, the cold, dark clouds are nearly invisible.In the next time step, the light echoes begin to brilliantly light up these clouds, making them pop into view. Interestingly, all three echoes appear at the same time, even though the clouds are at different distances from the neutron star and from Earth. This is due to the particular geometry of this example; a viewer watching from some other direction would not see these echoes simultaneously.In the third time step, the echoes shift through the dust clouds, now lighting up different parts. This creates the illusion of small, rapidly-moving clumps of dust. In fact, there is no motion of the dust. It is only the expanding flash that brings different parts of stationary clouds into view.This illustration is a simplified explanation of what astronomers have seen in the space surrounding the Cassiopeia A supernova remnant. Two Spitzer Space Telescope images of the region around this object, taken a year apart, reveal such a light echo. The images appear to show many filaments and blobs moving outward at the speed of light. Astronomers, however, have determined this motion is actually due to a light echo from a recent explosion on the central neutron star dating back to 1953. The original supernova happened 325 years ago.
+</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>Cas A</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Illustration of a Light Echo</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA/JPL-Caltech/R. Hurt (SSC)</photoshop:Credit>
+  <photoshop:Headline>Across the vast distances of space, light can &#39;echo&#39; off of distant dust clouds in much the same way that sound can echo off of distant walls.</photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

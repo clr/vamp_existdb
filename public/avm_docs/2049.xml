@@ -1,0 +1,165 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiUrlWork>http://galex.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>2900000</rdf:li>
+    <rdf:li>-0.000597</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>GALEX</rdf:li>
+    <rdf:li>GALEX</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>sig09-003</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>FUV</rdf:li>
+    <rdf:li>NUV</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2009-07-02</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:ReferenceURL>http://spitzer.caltech.edu/images/2049-sig09-003-Multispectral-Triangulum-Galaxy-3-Channels-</avm:ReferenceURL>
+  <avm:ResourceID>sig09-003.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0001/5348/sig09-003.tif</avm:ResourceURL>
+  <avm:Spatial.CoordinateFrame>ICRS</avm:Spatial.CoordinateFrame>
+  <avm:Spatial.CoordsystemProjection>TAN</avm:Spatial.CoordsystemProjection>
+  <avm:Spatial.Equinox>J2000</avm:Spatial.Equinox>
+  <avm:Spatial.Quality>Full</avm:Spatial.Quality>
+  <avm:Spatial.ReferenceDimension>
+   <rdf:Seq>
+    <rdf:li>2228</rdf:li>
+    <rdf:li>3462</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceDimension>
+  <avm:Spatial.ReferencePixel>
+   <rdf:Seq>
+    <rdf:li>1114</rdf:li>
+    <rdf:li>1731</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferencePixel>
+  <avm:Spatial.ReferenceValue>
+   <rdf:Seq>
+    <rdf:li>23.485679</rdf:li>
+    <rdf:li>30.667077</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceValue>
+  <avm:Spatial.Rotation>0</avm:Spatial.Rotation>
+  <avm:Spatial.Scale>
+   <rdf:Seq>
+    <rdf:li>-4.16666666666667e-04</rdf:li>
+    <rdf:li>4.16666666666667e-04</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.Scale>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Ultraviolet</rdf:li>
+    <rdf:li>Ultraviolet</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Bandpass>
+   <rdf:Seq>
+    <rdf:li>Far-UV</rdf:li>
+    <rdf:li>Near-UV</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Bandpass>
+  <avm:Spectral.CentralWavelength>
+   <rdf:Seq>
+    <rdf:li>150</rdf:li>
+    <rdf:li>230</rdf:li>
+    <rdf:li>8000</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.CentralWavelength>
+  <avm:Spectral.ColorAssignment>
+   <rdf:Seq>
+    <rdf:li>Blue</rdf:li>
+    <rdf:li>Green</rdf:li>
+    <rdf:li>Red</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.ColorAssignment>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>C.5.1.1.</rdf:li>
+    <rdf:li>C.5.3.1.</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>This image is a blend of the Galaxy Evolution Explorer&#39;s M33 image and another taken by NASA&#39;s Spitzer Space Telescope. M33, one of our closest galactic neighbors, is about 2.9 million light-years away in the constellation Triangulum, part of what&#39;s known as our Local Group of galaxies.
+
+Together, the Galaxy Evolution Explorer and Spitzer can see a broad spectrum of sky. Spitzer, for example, can detect mid-infrared radiation from dust that has absorbed young stars&#39; ultraviolet light. That&#39;s something the Galaxy Evolution Explorer cannot see. This combined image shows in amazing detail the beautiful and complicated interlacing of the heated dust and young stars. In some regions of M33, dust gathers where there is very little far-ultraviolet light, suggesting that the young stars are obscured or that stars farther away are heating the dust. In some of the outer regions of the galaxy, just the opposite is true: There are plenty of young stars and very little dust.
+
+Far-ultraviolet light from young stars glimmers blue, near-ultraviolet light from intermediate age stars glows green, and dust rich in organic molecules burns red. This image is a 3-band composite including far infrared as red.</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>Triangulum Galaxy</rdf:li>
+    <rdf:li>Messier 33</rdf:li>
+    <rdf:li>M33</rdf:li>
+    <rdf:li>NGC 598</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Multispectral Triangulum Galaxy 3 Channel</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA/JPL-Caltech</photoshop:Credit>
+  <photoshop:Headline>This image is a blend of the Galaxy Evolution Explorer&#39;s M33 image and another taken by NASA&#39;s Spitzer Space Telescope. M33, one of our closest galactic neighbors, is about 2.9 million light-years away in the constellation Triangulum, part of what&#39;s known as our Local Group of galaxies.</photoshop:Headline>
+  <photoshop:Source>Galex</photoshop:Source>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

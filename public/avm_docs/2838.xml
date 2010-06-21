@@ -1,0 +1,195 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>MS 220-6, 1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>CAO 3.5m</rdf:li>
+    <rdf:li>CAO 3.5m</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>CSO</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>ssc2009-21a</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>Omega2000</rdf:li>
+    <rdf:li>Omega2000</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>MIPS</rdf:li>
+    <rdf:li>SHARC2</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2009-11-20</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:ReferenceURL>http://spitzer.caltech.edu/images/2838-ssc2009-21a-Twin-Brown-Dwarfs-Wrapped-in-a-Blanket</avm:ReferenceURL>
+  <avm:ResourceID>ssc2009-21a.tif</avm:ResourceID>
+  <avm:ResourceURL>http://spitzer.caltech.edu/uploaded_files/images/0005/1650/ssc2009-21a.tif</avm:ResourceURL>
+  <avm:Spatial.CoordinateFrame>ICRS</avm:Spatial.CoordinateFrame>
+  <avm:Spatial.CoordsystemProjection>TAN</avm:Spatial.CoordsystemProjection>
+  <avm:Spatial.Equinox>J2000</avm:Spatial.Equinox>
+  <avm:Spatial.Quality>Position</avm:Spatial.Quality>
+  <avm:Spatial.ReferenceDimension>
+   <rdf:Seq>
+    <rdf:li>1600.0</rdf:li>
+    <rdf:li>1600.0</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceDimension>
+  <avm:Spatial.ReferencePixel>
+   <rdf:Seq>
+    <rdf:li>801.0</rdf:li>
+    <rdf:li>801.0</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferencePixel>
+  <avm:Spatial.ReferenceValue>
+   <rdf:Seq>
+    <rdf:li>64.4909759</rdf:li>
+    <rdf:li>27.6846292</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceValue>
+  <avm:Spatial.Rotation>7.3</avm:Spatial.Rotation>
+  <avm:Spatial.Scale>
+   <rdf:Seq>
+    <rdf:li>2.61622e-05</rdf:li>
+    <rdf:li>2.61622e-05</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.Scale>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Bandpass>
+   <rdf:Seq>
+    <rdf:li>Near-IR</rdf:li>
+    <rdf:li>Near-IR</rdf:li>
+    <rdf:li>Near-IR</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+    <rdf:li>Far-IR</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Bandpass>
+  <avm:Spectral.CentralWavelength>
+   <rdf:Seq>
+    <rdf:li>1300</rdf:li>
+    <rdf:li>2200</rdf:li>
+    <rdf:li>4500</rdf:li>
+    <rdf:li>8000</rdf:li>
+    <rdf:li>24000</rdf:li>
+    <rdf:li>350000</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.CentralWavelength>
+  <avm:Spectral.ColorAssignment>
+   <rdf:Seq>
+    <rdf:li>Blue</rdf:li>
+    <rdf:li>Cyan</rdf:li>
+    <rdf:li>Green</rdf:li>
+    <rdf:li>Yellow</rdf:li>
+    <rdf:li>Red</rdf:li>
+    <rdf:li>Purple</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.ColorAssignment>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>B.3.2.3.</rdf:li>
+    <rdf:li>B.3.1.1.</rdf:li>
+    <rdf:li>B.3.1.2.</rdf:li>
+    <rdf:li>B.3.6.1.</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>This image shows two young brown dwarfs, objects that fall somewhere between planets and stars in terms of their temperature and mass. Brown dwarfs are cooler and less massive than stars, never igniting the nuclear fires that power their larger cousins, yet they are more massive (and normally warmer) than planets. When brown dwarfs are born, they heat the nearby gas and dust, which enables powerful infrared telescopes like NASA&#39;s Spitzer Space Telescope to detect their presence.
+
+Here we see a long sought-after view of these very young objects, labeled as A and B, which appear as closely-spaced purple-blue and orange-white dots at the very center of this image. The surrounding envelope of cool dust surrounding this nursery can be seen in purple.
+
+These twins, which were found in the region of the Taurus-Auriga star-formation complex, are the youngest of their kind ever detected. They are also helping astronomers solve a long-standing riddle about how brown dwarfs are formed  more like stars or more like planets? Based on these findings, the researchers think they have found the answer: Brown dwarfs form like stars.
+
+This image combined data from three different telescopes on the ground and in space. Near-infrared observations collected at the Calar Alto Observatory in Spain cover wavelengths of 1.3 and 2.2 microns (rendered as blue). Spitzer&#39;s infrared array camera contributed the 4.5-micron (green) and 8.0-micron (yellow) observations, and its multiband imaging photometer added the 24-micron (red) component. The Caltech Submillimeter Observatory in Hawaii made the far-infrared observations at 350 microns (purple).
+
+These observations were made before Spitzer ran out its coolant in May of 2009, officially beginning its &quot;warm&quot; mission.</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>Proto Brown Dwarf</rdf:li>
+    <rdf:li>SSTB213 J041757</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Twin Brown Dwarfs Wrapped in a Blanket</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA/JPL-Caltech/Calar Alto Obsv./Caltech Sub. Obsv.</photoshop:Credit>
+  <photoshop:Headline>This image shows two young brown dwarfs, objects that fall somewhere between planets and stars in terms of their temperature and mass. Brown dwarfs are cooler and less massive than stars, never igniting the nuclear fires that power their larger cousins, yet they are more massive (and normally warmer) than planets.</photoshop:Headline>
+  <photoshop:Source>Spitzer Science Center</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

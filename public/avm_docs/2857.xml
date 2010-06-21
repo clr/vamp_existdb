@@ -1,0 +1,189 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>6300</rdf:li>
+    <rdf:li>-</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>Chandra</rdf:li>
+    <rdf:li>Hubble</rdf:li>
+    <rdf:li>Hubble</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>sig09-009</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>ACIS</rdf:li>
+    <rdf:li>WFPC2</rdf:li>
+    <rdf:li>WFPC2</rdf:li>
+    <rdf:li>MIPS</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2009-11-25</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://spitzer.caltech.edu/images/2857-sig09-009-NASA-s-Great-Observatory-View-of-the-Crab-Nebula</avm:ReferenceURL>
+  <avm:ResourceID>sig09-009.tif</avm:ResourceID>
+  <avm:ResourceURL>http://spitzer.caltech.edu/uploaded_files/images/0005/2137/sig09-009.tif</avm:ResourceURL>
+  <avm:Spatial.CoordinateFrame>ICRS</avm:Spatial.CoordinateFrame>
+  <avm:Spatial.CoordsystemProjection>TAN</avm:Spatial.CoordsystemProjection>
+  <avm:Spatial.Equinox>J2000</avm:Spatial.Equinox>
+  <avm:Spatial.Quality>Full</avm:Spatial.Quality>
+  <avm:Spatial.ReferenceDimension>
+   <rdf:Seq>
+    <rdf:li>2780</rdf:li>
+    <rdf:li>2648</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceDimension>
+  <avm:Spatial.ReferencePixel>
+   <rdf:Seq>
+    <rdf:li>1374</rdf:li>
+    <rdf:li>1188</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferencePixel>
+  <avm:Spatial.ReferenceValue>
+   <rdf:Seq>
+    <rdf:li>83.632075312</rdf:li>
+    <rdf:li>22.014818737</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceValue>
+  <avm:Spatial.Rotation>0.2</avm:Spatial.Rotation>
+  <avm:Spatial.Scale>
+   <rdf:Seq>
+    <rdf:li>-5.52019443E-05</rdf:li>
+    <rdf:li>5.52019443E-05</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.Scale>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>X-ray</rdf:li>
+    <rdf:li>Optical</rdf:li>
+    <rdf:li>Optical</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Bandpass>
+   <rdf:Seq>
+    <rdf:li>-</rdf:li>
+    <rdf:li>O-III</rdf:li>
+    <rdf:li>H-alpha</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Bandpass>
+  <avm:Spectral.CentralWavelength>
+   <rdf:Seq>
+    <rdf:li>0.8267</rdf:li>
+    <rdf:li>500</rdf:li>
+    <rdf:li>656</rdf:li>
+    <rdf:li>24000</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.CentralWavelength>
+  <avm:Spectral.ColorAssignment>
+   <rdf:Seq>
+    <rdf:li>Blue</rdf:li>
+    <rdf:li>Yellow</rdf:li>
+    <rdf:li>Red</rdf:li>
+    <rdf:li>Purple</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.ColorAssignment>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>B.4.1.4.</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:creator>
+   <rdf:Seq>
+    <rdf:li>Spitzer Space Telescope</rdf:li>
+   </rdf:Seq>
+  </dc:creator>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>A star&#39;s spectacular death in the constellation Taurus was observed on Earth as the supernova of 1054 A.D. Now, almost a thousand years later, a super dense object -- called a neutron star -- left behind by the explosion is seen spewing out a blizzard of high-energy particles into the expanding debris field known as the Crab Nebula. X-ray data from Chandra provide significant clues to the workings of this mighty cosmic &quot;generator,&quot; which is producing energy at the rate of 100,000 suns.
+
+This composite image uses data from three of NASA&#39;s Great Observatories. The Chandra X-ray image is shown in blue, the Hubble Space Telescope optical image is in red and yellow, and the Spitzer Space Telescope&#39;s infrared image is in purple. The X-ray image is smaller than the others because extremely energetic electrons emitting X-rays radiate away their energy more quickly than the lower-energy electrons emitting optical and infrared light. Along with many other telescopes, Chandra has repeatedly observed the Crab Nebula over the course of the mission&#39;s lifetime. The Crab Nebula is one of the most studied objects in the sky, truly making it a cosmic icon.</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>Crab Nebula</rdf:li>
+    <rdf:li>Messier 1</rdf:li>
+    <rdf:li>M1</rdf:li>
+    <rdf:li>NGC 1952</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>NASA&#39;s Great Observatory View of the Crab Nebula</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>X-Ray: NASA/CXC/J.Hester (ASU); Optical: NASA/ESA/J.Hester &amp; A.Loll (ASU); Infrared: NASA/JPL-Caltech/R.Gehrz (Univ. Minn.)</photoshop:Credit>
+  <photoshop:Headline>A star&#39;s spectacular death in the constellation Taurus was observed on Earth as the supernova of 1054 A.D. Now, almost a thousand years later, a superdense neutron star left behind by the stellar death is spewing out a blizzard of extremely high-energy particles into the expanding debris field known as the Crab Nebula.
+This composite image uses data from three of NASA&#39;s Great Observatories. </photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

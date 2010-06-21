@@ -1,0 +1,202 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance.Notes>Distance taken from Fast Facts.</avm:Distance.Notes>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>163000</rdf:li>
+    <rdf:li>-</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>ssc2004-04a</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:Instrument>
+   <rdf:Seq>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>IRAC</rdf:li>
+    <rdf:li>MIPS</rdf:li>
+   </rdf:Seq>
+  </avm:Instrument>
+  <avm:MetadataDate>2009-06-23</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://www.spitzer.caltech.edu/images/1133-ssc2004-04a-Star-Formation-in-Henize-206</avm:ReferenceURL>
+  <avm:ResourceID>ssc2004-04a.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0001/5612/ssc2004-04a.tif</avm:ResourceURL>
+  <avm:Spatial.CoordinateFrame>ICRS</avm:Spatial.CoordinateFrame>
+  <avm:Spatial.CoordsystemProjection>TAN</avm:Spatial.CoordsystemProjection>
+  <avm:Spatial.Equinox>J2000</avm:Spatial.Equinox>
+  <avm:Spatial.Quality>Position</avm:Spatial.Quality>
+  <avm:Spatial.ReferenceDimension>
+   <rdf:Seq>
+    <rdf:li>2262.0</rdf:li>
+    <rdf:li>1899.0</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceDimension>
+  <avm:Spatial.ReferencePixel>
+   <rdf:Seq>
+    <rdf:li>1131</rdf:li>
+    <rdf:li>949.5</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferencePixel>
+  <avm:Spatial.ReferenceValue>
+   <rdf:Seq>
+    <rdf:li>82.570555274474486</rdf:li>
+    <rdf:li>-71.064470262802161</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceValue>
+  <avm:Spatial.Rotation>386.649351761803</avm:Spatial.Rotation>
+  <avm:Spatial.Scale>
+   <rdf:Seq>
+    <rdf:li>-0.00016953011967057511</rdf:li>
+    <rdf:li>0.00016953011967057511</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.Scale>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Bandpass>
+   <rdf:Seq>
+    <rdf:li>Near-IR</rdf:li>
+    <rdf:li>Near-IR</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+    <rdf:li>Mid-IR</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Bandpass>
+  <avm:Spectral.CentralWavelength>
+   <rdf:Seq>
+    <rdf:li>3600</rdf:li>
+    <rdf:li>4500</rdf:li>
+    <rdf:li>5800</rdf:li>
+    <rdf:li>8000</rdf:li>
+    <rdf:li>24000</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.CentralWavelength>
+  <avm:Spectral.ColorAssignment>
+   <rdf:Seq>
+    <rdf:li>Blue</rdf:li>
+    <rdf:li>Blue</rdf:li>
+    <rdf:li>Cyan</rdf:li>
+    <rdf:li>Green</rdf:li>
+    <rdf:li>Red</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.ColorAssignment>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>C.4.1.2.</rdf:li>
+    <rdf:li>C.4.2.1.</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:creator>
+   <rdf:Seq>
+    <rdf:li>Spitzer Space Telescope</rdf:li>
+   </rdf:Seq>
+  </dc:creator>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Within the Large Magellanic Cloud (LMC), a nearby and irregularly-shaped galaxy seen in the Southern Hemisphere, lies a star-forming region heavily obscured by interstellar dust. NASA&#39;s Spitzer Space Telescope has used its infrared eyes to poke through the cosmic veil to reveal a striking nebula where the entire lifecycle of stars is seen in splendid detail.
+
+The LMC is a small satellite galaxy gravitationally bound to our own Milky Way. Yet the gravitational effects are tearing the companion to shreds in a long-playing drama of &#39;intergalactic cannibalism.&#39; These disruptions lead to a recurring cycle of star birth and star death.
+
+Astronomers are particularly interested in the LMC because its fractional content of heavy metals is two to five times lower than is seen in our solar neighborhood. [In this context, &#39;heavy elements&#39; refer to those elements not present in the primordial universe. Such elements as carbon, oxygen and others are produced by nucleosynthesis and are ejected into the interstellar medium via mass loss by stars, including supernova explosions.] As such, the LMC provides a nearby cosmic laboratory that may resemble the distant universe in its chemical composition.
+
+The primary Spitzer image, showing the wispy filamentary structure of Henize 206, is a four-color composite mosaic created by combining data from an infrared array camera (IRAC) at near-infrared wavelengths and the mid-infrared data from a multiband imaging photometer (MIPS). Blue represents invisible infrared light at wavelengths of 3.6 and 4.5 microns. Note that most of the stars in the field of view radiate primarily at these short infrared wavelengths. Cyan denotes emission at 5.8 microns, green depicts the 8.0 micron light, and red is used to trace the thermal emission from dust at 24 microns. The separate instrument images are included as insets to the main composite.
+
+An inclined ring of emission dominates the central and upper regions of the image. This delineates a bubble of hot, x-ray emitting gas that was blown into space when a massive star died in a supernova explosion millions of years ago. The shock waves from that explosion impacted a cloud of nearby hydrogen gas, compressed it, and started a new generation of star formation. The death of one star led to the birth of many new stars. This is particularly evident in the MIPS inset, where the 24-micron emission peaks correspond to newly formed stars. The ultraviolet and visible-light photons from the new stars are absorbed by surrounding dust and re-radiated at longer infrared wavelengths, where it is detected by Spitzer.
+
+This emission nebula was cataloged by Karl Henize (HEN-eyes) while spending 1948-1951 in South Africa doing research for his Ph.D. dissertation at the University of Michigan. Henize later became a NASA astronaut and, at age 59, became the oldest rookie to fly on the Space Shuttle during an eight-day flight of the Challenger in 1985. He died just short of his 67th birthday in 1993 while attempting to climb the north face of Mount Everest, the world&#39;s highest peak. 
+</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>Henize 206</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Star Formation in Henize 206</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA/JPL-Caltech/V. Gorjian(JPL)</photoshop:Credit>
+  <photoshop:Headline>Within the Large Magellanic Cloud (LMC), a nearby and irregularly-shaped galaxy seen in the Southern Hemisphere, lies a star-forming region heavily obscured by interstellar dust. NASA&#39;s Spitzer Space Telescope has used its infrared eyes to poke through the cosmic veil to reveal a striking nebula where the entire lifecycle of stars is seen in splendid detail.</photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>

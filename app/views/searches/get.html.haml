@@ -1,0 +1,13 @@
+#page.container_12
+  #header.grid_12
+    XQuery VAMP Archive
+  #search.grid_12
+    %form{:action => '/search', :method => :post}
+      %textarea{:name => 'qu', :style => 'width:80em;height:30em'}
+        = default_search
+      %button{:type => 'submit'}
+        search
+  .clear
+  #content
+    =raw @response
+    .clear

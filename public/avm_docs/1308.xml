@@ -1,0 +1,144 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 6.94'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:CreatorContactInfo rdf:parseType='Resource'>
+   <Iptc4xmpCore:CiAdrCity>Pasadena</Iptc4xmpCore:CiAdrCity>
+   <Iptc4xmpCore:CiAdrCtry>USA</Iptc4xmpCore:CiAdrCtry>
+   <Iptc4xmpCore:CiAdrExtadr>1200 E. California Blvd.</Iptc4xmpCore:CiAdrExtadr>
+   <Iptc4xmpCore:CiAdrPcode>91125</Iptc4xmpCore:CiAdrPcode>
+   <Iptc4xmpCore:CiAdrRegion>CA</Iptc4xmpCore:CiAdrRegion>
+   <Iptc4xmpCore:CiUrlWork>http://www.spitzer.caltech.edu</Iptc4xmpCore:CiUrlWork>
+  </Iptc4xmpCore:CreatorContactInfo>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:avm='http://www.communicatingastronomy.org/avm/1.0/'>
+  <avm:Distance.Notes>Distance taken from Fast Facts.  Lower value of the range of 10000 to 17000 light years is used.</avm:Distance.Notes>
+  <avm:Distance>
+   <rdf:Seq>
+    <rdf:li>10000</rdf:li>
+    <rdf:li>-</rdf:li>
+   </rdf:Seq>
+  </avm:Distance>
+  <avm:Facility>
+   <rdf:Seq>
+    <rdf:li>DSS</rdf:li>
+    <rdf:li>2MASS</rdf:li>
+    <rdf:li>Spitzer</rdf:li>
+   </rdf:Seq>
+  </avm:Facility>
+  <avm:ID>ssc2004-16b</avm:ID>
+  <avm:Image.ProductQuality>Good</avm:Image.ProductQuality>
+  <avm:MetadataDate>2009-06-24</avm:MetadataDate>
+  <avm:MetadataVersion>1.1</avm:MetadataVersion>
+  <avm:Publisher>Spitzer Science Center</avm:Publisher>
+  <avm:ReferenceURL>http://www.spitzer.caltech.edu/images/1308-ssc2004-16b-Galactic-Fossil-Found-Behind-Curtain-of-Dust</avm:ReferenceURL>
+  <avm:ResourceID>ssc2004-16b.tif</avm:ResourceID>
+  <avm:ResourceURL>http://www.spitzer.caltech.edu/uploaded_files/images/0001/5561/ssc2004-16b.tif</avm:ResourceURL>
+  <avm:Spatial.Quality>Position</avm:Spatial.Quality>
+  <avm:Spatial.ReferenceValue>
+   <rdf:Seq>
+    <rdf:li>282.207083333</rdf:li>
+    <rdf:li>-0.502777777778</rdf:li>
+   </rdf:Seq>
+  </avm:Spatial.ReferenceValue>
+  <avm:Spectral.Band>
+   <rdf:Seq>
+    <rdf:li>Optical</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+    <rdf:li>Infrared</rdf:li>
+   </rdf:Seq>
+  </avm:Spectral.Band>
+  <avm:Spectral.Notes>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Multiple image collage</rdf:li>
+   </rdf:Alt>
+  </avm:Spectral.Notes>
+  <avm:Subject.Category>
+   <rdf:Bag>
+    <rdf:li>B.3.6.4.2.</rdf:li>
+   </rdf:Bag>
+  </avm:Subject.Category>
+  <avm:Type>Observation</avm:Type>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:creator>
+   <rdf:Seq>
+    <rdf:li>Spitzer Space Telescope</rdf:li>
+   </rdf:Seq>
+  </dc:creator>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>This image mosaic shows the same patch of sky in various wavelengths of light. While the visible-light image (left) shows a dark sky speckled with stars, infrared images (middle and right), reveal a never-before-seen bundle of stars, called a globular cluster. The left panel is from the California Institute of Technology&#39;s Digitized Sky Survey; the middle panel includes images from the NASA-funded Two Micron All-Sky Survey and the University of Wyoming Infrared Observatory (circle inset); and the right panel is from NASA&#39;s Spitzer Space Telescope.
+
+Globular clusters date back to the birth of our galaxy, 13 or so billion years ago. There are about 150 clusters sprinkled around the core of the galaxy like seeds in a pumpkin. Astronomers use these galactic &quot;fossils&quot; as tools for studying the age and formation of the Milky Way.
+
+Most clusters orbit around the center of the galaxy well above its dust-enshrouded disc, or plane, while making brief, repeated passes through the plane that each last about a million years. Spitzer, with infrared eyes that can see into the dusty galactic plane, first spotted the newfound cluster during its current pass. Astronomers then searched for past references to the cluster and found only one undocumented image from the Two Micron All-Sky Survey.
+
+Follow-up observations with the University of Wyoming Infrared Observatory helped set the distance of the new cluster at about 9,000 light-years from Earth -- closer than most clusters -- and set the mass at the equivalent of 300,000 Suns. The cluster&#39;s apparent size, as viewed from Earth, is comparable to a grain of rice held at arm&#39;s length. It is located in the constellation Aquila.
+
+Astronomers believe that this cluster may be one of the last in our galaxy to be uncovered.
+
+The Two Micron All-Sky Survey false-color image was obtained using near-infrared wavelengths ranging from 1.3 to 2.2 microns. The University of Wyoming Observatory false-color image was captured on July 31, 2004, at wavelengths ranging from 1.2 to 2.2 microns. The Spitzer false-color image composite was taken on April 21, 2004, by its infrared array camera. It is composed of images obtained at four mid-infrared wavelengths: 3.6 microns (blue), 4.5 microns (green), 5.8 microns (orange) and 8 microns (red). 
+</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>GLIMPSE-C01</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Galactic Fossil Found Behind Curtain of Dust</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>NASA/JPL-Caltech/H. Kobulnicky (Univ. of Wyoming) </photoshop:Credit>
+  <photoshop:Headline>This image mosaic shows the same patch of sky in various wavelengths of light. While the visible-light image (left) shows a dark sky speckled with stars, infrared images (middle and right), reveal a never-before-seen bundle of stars, called a globular cluster.</photoshop:Headline>
+  <photoshop:Source>Spitzer Space Telescope</photoshop:Source>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
+  <xapRights:UsageTerms>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Public Domain</rdf:li>
+   </rdf:Alt>
+  </xapRights:UsageTerms>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>
