@@ -36,9 +36,12 @@ body {
 }
 
 #content {
-    background-image: url("../images/small-stripes.png");
-    padding-top: 10px;
-	border-top: 1px solid #232323;
+  background-color: #101010;
+  border: 1px solid #232323;
+}
+
+.uneven {
+	padding: 0 5px 0 0;
 }
 
 .result {
@@ -53,3 +56,27 @@ body {
 .result h5 {
   font-size: 15px;
 }
+
+#search form textarea {
+  width: 100%;
+  height: 600px;
+}
+
+.xml-element {
+  color: #F00;
+  padding: 0 0 0 1em;
+  font-family: monospace;
+}
+
+.xml-element-tag {
+  color: #FFA500;
+}
+
+.xml-attr-name {
+  color: #8A2BE2;
+}
+
+.xml-attr-value, .xml-text {
+  color: white;
+}
+
