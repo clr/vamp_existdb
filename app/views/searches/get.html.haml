@@ -3,12 +3,12 @@
     XQuery VAMP Archive
   #search.grid_12
     %form{:action => '/search', :method => :post}
-      %textarea{:name => 'qu', :style => 'width:80em;height:30em'}
+      %textarea{:name => 'qu'}
         = default_search
       %button{:type => 'submit'}
         search
   .clear
-  #content
+  #content.grid_12
     - if @resource
       Result: 
       = link_to search_url(@resource, :format => :xml), search_url(@resource, :format => :xml)
