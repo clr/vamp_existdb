@@ -1,4 +1,6 @@
 VampPostgresql::Application.routes.draw do |map|
+  resources :delmes
+
   map_restfully :search
 
   root :to => "searches#get"

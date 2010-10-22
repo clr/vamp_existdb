@@ -9,5 +9,9 @@
         search
   .clear
   #content
-    =raw @response
-    .clear
+    - if @resource
+      Result: 
+      = link_to search_url(@resource, :format => :xml), search_url(@resource, :format => :xml)
+      %textarea{:name => 'qu', :style => 'width:80em;height:30em'}
+        =raw @resource.result
+      .clear

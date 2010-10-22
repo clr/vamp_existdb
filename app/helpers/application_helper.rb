@@ -2,8 +2,6 @@ module ApplicationHelper
 
   def default_search
     <<-XQUERY
-    import module namespace kwic="http://exist-db.org/xquery/kwic";
-
 declare namespace atom="http://www.w3.org/2005/Atom";
 declare namespace avm='http://www.communicatingastronomy.org/avm/1.0/';
 declare namespace rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#";
@@ -45,9 +43,4 @@ return
     XQUERY
   end
 
-  def ajax_submit
-    <<-JS
-$.ajax({type: 'POST',url: 'http://localhost:8080/exist/tools/sandbox/execute',data: {'qu': $('textarea').val()},success: function(data){alert(data);}});
-    JS
-  end
 end
