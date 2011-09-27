@@ -11,7 +11,7 @@
   #content.grid_12
     - if @resource
       Result: 
-      = link_to search_url(@resource, :format => :xml), search_url(@resource, :format => :xml)
+      = link_to search_url(@query.hash, :format => :xml), search_url(@query.hash, :format => :xml)
       %textarea{:name => 'qu', :style => 'width:80em;height:30em'}
-        =raw @resource.result
+        =raw @resource
       .clear

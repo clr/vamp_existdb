@@ -1,4 +1,4 @@
-VampPostgresql::Application.configure do
+XSpace::Application.configure do
   # Settings specified here will take precedence over those in config/environment.rb
 
   # The production environment is meant for finished, "live" apps.
@@ -40,3 +40,7 @@ VampPostgresql::Application.configure do
   # Enable threaded mode
   # config.threadsafe!
 end
+
+require Rails.root.join('app','models','search')
+raise "C'mon, man!!!!!!!!!! You have to set your path to ExistDB in config/environments/production.rb. Sheesh."
+class Search; EXIST_CLIENT = File.join('/','usr','local','eXist','bin','client.sh'); end

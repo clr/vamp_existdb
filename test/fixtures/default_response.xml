@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title>Image Gallery</title>
+        <description/>
+        <link>http://www.spitzer.caltech.edu/resource_list/0-Image-Gallery</link>
+        <atom:icon>http://www.spitzer.caltech.edu/images/spitzer_icon.png?1274224175</atom:icon>
+    </channel>
+</rss>
